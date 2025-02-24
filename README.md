@@ -62,11 +62,15 @@
 | :--------------------: |
 | Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. |
 | [See Ascension section for Shell Bell rules](#Ascension-difficulty-increase) |
-Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned.
-You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon.
-Huge Power/Pure Power is banned in AS2 and AS3.
-Bag Space Cap
-There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones. Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options).
+| Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned. |
+| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
+| Huge Power/Pure Power is banned in AS2 and AS3. |
+
+| **Bag Space Cap** |
+| :--------------------: |
+| There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones. | 
+| Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options). |
+| Caps do not apply until you have locked in your pokemon to run. |
 	0 badges = HP = 150 Status = 3
 	1 badge = HP = 200, Status = 5
 	2 badges = HP = 300, Status = 5
@@ -76,17 +80,18 @@ There will be a base bag space cap for HP heals and Status Heals during the run.
 	6 badges = HP = 550, Status = 7
 	7 badges = HP = 600, Status = 7
 	8 badges = HP = 700, Status = 7
-Caps do not apply until you have locked in your pokemon to run.
 
-Trainers
-They will have pokemon that progressively scale in power.
-Before level 30 - all pokemon will not be fully evolved
-Before level 20  - all pokemon must be able to evolve again, and are <500BST.
-Between level 20 and level 29 - all pokemon will be at least 320 BST.
-After level 30 - all pokemon will be fully evolved but <570BST
-Before level 40 - all pokemon will not be legendary/mythic/mega/etc..
-Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items.
-Also, Perish Song is completely removed from trainers!
+
+| **Trainers** |
+| :--------------------: |
+| They will have pokemon that progressively scale in power. |
+| Before level 30 - all pokemon will not be fully evolved |
+| Before level 20  - all pokemon must be able to evolve again, and are <500BST. |
+| Between level 20 and level 29 - all pokemon will be at least 320 BST. |
+| After level 30 - all pokemon will be fully evolved but <570BST |
+| Before level 40 - all pokemon will not be legendary/mythic/mega/etc. |
+| Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items. |
+> NOTE: Perish Song is completely removed from trainers!
 
 # Ascension difficulty increase 
 
