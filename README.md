@@ -110,14 +110,14 @@
 > Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
 
 | **Ascension 3** |
-| :--------------------: |
-| All trainers pokemon will hold sensible items and have a 50% increase. |
-| Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam). |
-| X items that boost these stats are also still allowed. |
-| Huge/Pure Power is banned. |
-| Shell Bell is banned if your BST is 500 or higher. |
-| Nurse Trainers cannot be fought unless otherwise stated or forced. |
-| All Rival Fights must be completed at end of previous segment, or before next segment (player choice) |
+| :--------------------------------------------------------------------: |
+All trainers pokemon will hold sensible items and have a 50% increase. 
+Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
+X items that boost these stats are also still allowed.
+Huge/Pure Power is banned.
+Shell Bell is banned if your BST is 500 or higher.
+Nurse Trainers cannot be fought unless otherwise stated or forced.
+All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 
 TMs
 All TMs have full compatibility, however:
