@@ -1,4 +1,7 @@
 # RogueMON
+
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) |
+
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
