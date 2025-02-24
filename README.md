@@ -3,14 +3,14 @@
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
-# What is RogueMON?
-| **RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes.** | 
+| **What is RogueMON?** |
 | :--------------------: |
+| RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes. | 
 |The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
 
-# EVOLUTIONS: 
-| **All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic:**  |
+| **EVOLUTIONS** | 
 | :--------------------: |
+| All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic: |
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
