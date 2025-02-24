@@ -62,7 +62,7 @@
 | **Banned move/ability list** |
 | :--------------------: |
 | Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. |
-| [See Ascension section for Shell Bell rules](#Ascension-difficulty-increase) |
+| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned. |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
@@ -94,7 +94,7 @@
 | Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items. |
 > NOTE: Perish Song is completely removed from trainers!
 
-# Ascension difficulty increase 
+# Ascension Difficulty Increase 
 
 Ascension 1: all trainers pokemon will have a 20% level increase.
 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing
