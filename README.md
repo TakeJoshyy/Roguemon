@@ -36,12 +36,16 @@
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
 # ROGUEMON RULES
-| **Lab: lab mons will always have 2 possible evolutions and the first evolution will always evolve by level.** |
+| **Lab** |
 | :--------------------: |
+| Lab mons will always have 2 possible evolutions and the first evolution will always evolve by level. |
 | You can choose your starter in the lab. |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
-Wild Pokemon |
-| Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. (Found in Resources channel in the Roguemon Discord) |
+
+| **Wild Pokemon** |
+| :--------------------: |
+| Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. |
+| NOTE: Found in Resources channel in the Roguemon Discord |
 
 
 
