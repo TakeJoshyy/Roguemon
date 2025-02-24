@@ -110,7 +110,7 @@
 > Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
 
 | **Ascension 3** |
-| :--------------------------------------------------------------------: |
+| :--------------------: |
 All trainers pokemon will hold sensible items and have a 50% increase. 
 Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
 X items that boost these stats are also still allowed.
@@ -119,12 +119,14 @@ Shell Bell is banned if your BST is 500 or higher.
 Nurse Trainers cannot be fought unless otherwise stated or forced.
 All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 
-TMs
-All TMs have full compatibility, however:
-Gym TMs can be taught without restriction, but you must decide to teach immediately.
-Ground TMs can only be taught if a prize roll (see below) allows you to.
+| **TMs** |
+| :--------------------: |
+| All TMs have full compatibility, however... |
+| Gym TMs can be taught without restriction, but you must decide to teach immediately. |
+| Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
-Items
+# Items
+
 All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)
 All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability.
 You are not permitted to enter buildings not required by story / roguemon prize to pick up items. 
