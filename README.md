@@ -126,46 +126,56 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
 # Items
+| :--------------------: |
+| All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below) |
+| All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
+| You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
+| You are not allowed to buy items at marts/shops, with the exception of pokeballs and repels. |
+| Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. (and of course you will need to buy all your prizes if you are not using the tracker extension). |
 
-All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)
-All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability.
-You are not permitted to enter buildings not required by story / roguemon prize to pick up items. 
-You are not allowed to buy items at marts/shops, with the exception of pokeballs and repels. 
-Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. (and of course you will need to buy all your prizes if you are not using the tracker extension).
-When you pick up an item
-There are four types of items, each with different rules: 
-healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether)
-medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up)
-consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb)
-other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens)
+| **When you pick up an item** |
+| :--------------------: |
+| There are four types of items, each with different rules: |
+| Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether) |
+| Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up) |
+| Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb) |
+| Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens) |
 
-Healing item, you may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.
-You may use the item you just picked up, or an item you already had, as long as you end up back under the limit.
-All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP.
-In the tracker, there is a toggle for this to display as a whole number and not a percentage. (Settings>Gameplay>Options)
-Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables.
+| **Healing item** |
+| :--------------------: |
+| You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap. |
+| You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
+| All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP. |
+| In the tracker, there is a toggle for this to display as a whole number and not a percentage. (Settings>Gameplay>Options) |
+| Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables. |
 
-Medicine item, it must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins.
-Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding.
+| **Medicine item** |
+| :--------------------: |
+| It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins. |
+> Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding.
 
-Consumables - When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped.
-Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal.
-You may choose to equip these berries; if you do, then they are treated like normal consumables.
-If the consumable replaces another consumable, the one being unequipped is trashed and lost.
-If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped.
-Held berries do not count against your HP/status bag limit, but berries in your bag do.
+| **Consumables** | 
+| :--------------------: |
+| When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped. |
+| Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal. |
+| You may choose to equip these berries; if you do, then they are treated like normal consumables. |
+| If the consumable replaces another consumable, the one being unequipped is trashed and lost. |
+| If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
+| Held berries do not count against your HP/status bag limit, but berries in your bag do. |
 
 Other items can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.
 Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. 
 Exception - Pre-Gym 1 held item
 Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions.
 This item must be trashed during the cleansing phase after completing Gym 1.
-Revive note:  
-Revives are treated as being in the other items category. You may only use one if you unlock it with a Ground Item prize, or if you obtain it from a prize roll.
+
+> Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock it with a Ground Item prize, or if you obtain it from a prize roll.
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use Cut with the HM friend until it faints.
 As such, your HM friend should always be with you if you have one.
 If a trainer swaps your HM friend in, you may attack with Cut until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
 You are limited to ONE revive item per run.
+
+
 Game Progression
 The game mode is meant to be linear. There is FORCED ROUTING.
 The game is divided into segments, which comprise one or more routes/areas.
