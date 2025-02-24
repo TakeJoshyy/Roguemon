@@ -1,6 +1,7 @@
 # RogueMON
-RogueMON was created and developed by https://www.twitch.tv/crozwords
-Join the RogueMON community: https://discord.gg/C88N88yfCP
+| **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
+| :--------------------: |
+| Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
 # What is RogueMON?
 | **RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes.** | 
