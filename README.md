@@ -23,7 +23,7 @@
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example:Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
-<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="40" height="40">
+<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="200" height="200">
 
 
 
