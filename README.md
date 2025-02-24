@@ -69,9 +69,9 @@
 
 | **Bag Space Cap** |
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones. | 
-| Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options). |
-| Caps do not apply until you have locked in your pokemon to run. |
+| There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.     | 
+| Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
+| Caps do not apply until you have locked in your pokemon to run.                                                                            |
 	0 badges = HP = 150 Status = 3
 	1 badge = HP = 200, Status = 5
 	2 badges = HP = 300, Status = 5
