@@ -126,6 +126,7 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
 # Items
+| **General Item Rules** |
 | :--------------------: |
 | All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below) |
 | All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
