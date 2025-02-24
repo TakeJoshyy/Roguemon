@@ -1,6 +1,6 @@
 # RogueMON
 
-### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) |
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [Ascensions](#Ascension-Difficulty-Increase) | [Items](#Items) |
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
