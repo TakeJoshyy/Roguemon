@@ -3,8 +3,9 @@ RogueMON was created and developed by https://www.twitch.tv/crozwords
 Join the RogueMON community: https://discord.gg/C88N88yfCP
 
 # What is RogueMON?
-|------------------|
-|RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes. The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
+| **RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes.** | 
+| :--------------------: |
+|The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
 
 # EVOLUTIONS: 
 |-------------|
