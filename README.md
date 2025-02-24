@@ -16,10 +16,12 @@
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
 
-IRONMON
-Roguelikes and Ironmon both have a “permadeath” feature. The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized.
-Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. 
-Example:Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
+# IRONMON:
+| **Roguelikes and Ironmon both have a “permadeath” feature.** | 
+| :--------------------: |
+| The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
+| Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
+> Example:Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
 
 
