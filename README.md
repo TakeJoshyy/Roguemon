@@ -14,7 +14,7 @@
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
-| > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53. |
+> Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
 
 IRONMON
 Roguelikes and Ironmon both have a “permadeath” feature. The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized.
