@@ -25,20 +25,20 @@
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
-# ROGUELIKES:
-| **Often have difficult choices and a “linear” element.** | 
+| **ROGUELIKES** |
 | :--------------------: |
+| Often have difficult choices and a “linear” element. | 
 |The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
-ROGUEMON RULES
-Lab
-lab mons will always have 2 possible evolutions and the first evolution will always evolve by level.
-You can choose your starter in the lab. 
-You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
-Wild Pokemon
-Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. (Found in Resources channel in the Roguemon Discord)
+# ROGUEMON RULES
+| **Lab: lab mons will always have 2 possible evolutions and the first evolution will always evolve by level.** |
+| :--------------------: |
+| You can choose your starter in the lab. |
+| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
+Wild Pokemon |
+| Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. (Found in Resources channel in the Roguemon Discord) |
 
 
 
