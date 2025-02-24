@@ -56,6 +56,7 @@
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run. |
 | All pokemon that evolve with any stone/item now take a Rogue Stone (Moon Stone) to evolve. These can be bought in the Department Store once you have access. Rogue Stones you pick up can be kept and used at any time after gym 1. |
+<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
 
 | **Banned move/ability list** |
