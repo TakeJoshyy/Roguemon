@@ -25,15 +25,12 @@
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
-
-
-
-
-
-
-
-ROGUELIKES
-often have difficult choices and a “linear” element. The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. There will also be ‘ascensions’ or difficulty levels to progress through.
+# ROGUELIKES:
+| **Often have difficult choices and a “linear” element.** | 
+| :--------------------: |
+|The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
+| There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
+| There will also be ‘ascensions’ or difficulty levels to progress through. |
 
 ROGUEMON RULES
 Lab
