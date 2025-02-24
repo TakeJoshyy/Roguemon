@@ -112,7 +112,8 @@
 | **Ascension 3** |
 | :--------------------: |
 | All trainers pokemon will hold sensible items and have a 50% increase. |
-| Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam). X items that boost these stats are also still allowed. |
+| Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam). |
+| X items that boost these stats are also still allowed. |
 | Huge/Pure Power is banned. |
 | Shell Bell is banned if your BST is 500 or higher. |
 | Nurse Trainers cannot be fought unless otherwise stated or forced. |
