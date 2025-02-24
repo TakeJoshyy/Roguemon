@@ -7,7 +7,7 @@
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
 | **What is RogueMON?** |
-| :--------------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
 | RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes. | 
 |The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
 
@@ -68,7 +68,7 @@
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 
 | **Bag Space Cap** |
-| :--------------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
 | There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones. | 
 | Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options). |
 | Caps do not apply until you have locked in your pokemon to run. |
