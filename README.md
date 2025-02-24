@@ -46,21 +46,22 @@
 | :--------------------: |
 | Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. |
 | NOTE: Found in Resources channel in the Roguemon Discord |
+| Pokemon in the wild have a 100% catch rate. |
+| Wild Pokemon have a 50% increase to their level in all ascensions. |
+| NOTE: Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt. |
+| You may catch 5 pokemon, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
+| Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground. |
+| You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
+| You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
+| If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
+| After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run. |
+| All pokemon that evolve with any stone/item now take a Rogue Stone (Moon Stone) to evolve. These can be bought in the Department Store once you have access. Rogue Stones you pick up can be kept and used at any time after gym 1. |
 
 
-
-Pokemon in the wild have a 100% catch rate.
-Wild Pokemon have a 50% increase to their level in all ascensions.
-Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt.
-You may catch 5 pokemon, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose.
-Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground.
-You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends.
-You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience.
-If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. 
-After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run.
-All pokemon that evolve with any stone/item now take a Rogue Stone (Moon Stone) to evolve. These can be bought in the Department Store once you have access. Rogue Stones you pick up can be kept and used at any time after gym 1.
-Banned move/ability list:  
-Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. (See Ascension section for Shell Bell rules.)
+| **Banned move/ability list** |
+| :--------------------: |
+| Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. |
+| [See Ascension section for Shell Bell rules](# Ascension difficulty increase) |
 Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned.
 You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon.
 Huge Power/Pure Power is banned in AS2 and AS3.
@@ -87,7 +88,7 @@ Before level 40 - all pokemon will not be legendary/mythic/mega/etc..
 Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items.
 Also, Perish Song is completely removed from trainers!
 
-Ascension difficulty increase 
+# Ascension difficulty increase 
 Ascension 1: all trainers pokemon will have a 20% level increase.
 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing
 Ascension 2: all trainers pokemon will have a 40% level increase. 
