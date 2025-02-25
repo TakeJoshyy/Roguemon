@@ -1,6 +1,6 @@
 # RogueMON
 
-### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) |
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [PRIZES](#Prize-Pool) |
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
@@ -242,7 +242,9 @@ Clouded Instincts - Your first move in each battle must be your first move slot.
 Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
 Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types). You can see your current typing in the tracker.
 No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.)
-Prize Rolls
+
+# Prize Rolls
+
 PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
 Prizes: 
 Prize 1 (Roll upon entering Viridian City): 3 prizes, keep 1
