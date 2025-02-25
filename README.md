@@ -164,11 +164,12 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
 | Held berries do not count against your HP/status bag limit, but berries in your bag do. |
 
-Other items can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.
-Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. 
-Exception - Pre-Gym 1 held item
-Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions.
-This item must be trashed during the cleansing phase after completing Gym 1.
+| **Other items** |
+| :--------------------: |
+| Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase. |
+| Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
+
+> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. This item must be trashed during the cleansing phase after completing Gym 1.
 
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock it with a Ground Item prize, or if you obtain it from a prize roll.
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use Cut with the HM friend until it faints.
@@ -177,18 +178,21 @@ If a trainer swaps your HM friend in, you may attack with Cut until it faints, b
 You are limited to ONE revive item per run.
 
 
-Game Progression
-The game mode is meant to be linear. There is FORCED ROUTING.
-The game is divided into segments, which comprise one or more routes/areas.
-Unless forced to by story, you must clear a segment in one attempt without healing. 
-You may use the Pokemon Center upon completing any segment.
-Healing HP and Status using items is allowed outside of battle.
-You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience.
-All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited.
-Any picked up item must be followed by an immediate decision if required.
-Wild pokemon may not be fought for experience unless allowed by a Prize.
-There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon.
-Gyms
+# Game Progression
+
+| **The game mode is meant to be linear. There is FORCED ROUTING.** |
+| :--------------------: |
+| The game is divided into segments, which comprise one or more routes/areas. |
+| Unless forced to by story, you must clear a segment in one attempt without healing. |
+| You may use the Pokemon Center upon completing any segment. |
+| Healing HP and Status using items is allowed outside of battle. |
+| You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience. |
+| All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited. |
+| Any picked up item must be followed by an immediate decision if required. |
+| Wild pokemon may not be fought for experience unless allowed by a Prize. |
+| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
+
+| **Gyms** |
 Every trainer must be fought in the gym.
 The Gym Leader’s ace will always be holding a sensible item.
 Gym Leader TM must be decided to teach at time of acquisition.
