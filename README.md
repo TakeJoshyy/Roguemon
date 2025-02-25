@@ -1,6 +1,6 @@
 # RogueMON
 
-### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [PRIZES](#Prize-Pool) |
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [CURSES](#Curses) | [PRIZES](#Prize-Pool) |
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
@@ -219,10 +219,11 @@ You may keep mushrooms(move relearner), but you may not use them unless permitte
 You may keep ONE RogueStone (Moon Stone; evolves all stone/item evolution pokemon).
 Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
-Curses
-Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.
+# Curses
 
-Currently planned curses:
+| **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
+| :--------------------: |
+| Currently planned curses: |
 Forgetfulness - Must pick up and teach a TM on this route. (You must teach the first TM you pick up.)
 Claustrophobia - If this segment is not full cleared, permanently lose 50 HP Cap.
 Downsizing - If this segment is not full cleared, prize spins permanently have 1 fewer option.
@@ -241,14 +242,15 @@ Clean Air - Enemy trainers have infinite Safeguard (protected from status condit
 Clouded Instincts - Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.)
 Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
 Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types). You can see your current typing in the tracker.
-No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.)
+| No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
 
 # Prize Rolls
 
-PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
-Prizes: 
-Prize 1 (Roll upon entering Viridian City): 3 prizes, keep 1
-Potion + Parlyz Heal + Antidote
+> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
+
+| **Prize 1 (Roll upon entering Viridian City): 3 prizes, keep 1** |
+| :--------------------: | 
+| Potion + Parlyz Heal + Antidote |
 Potion x2 + Antidote
 Parlyz Heal x2 + Antidote
 HP Cap +50
@@ -257,11 +259,12 @@ Fight up to 5 random wilds then PC heal  (cannot PC in between)
 Potion + fight 1st wild you see in Routes 1 | 2 | 22 (cannot PC in between)
 Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it
 Potion + Reroll Chip - 1 time use reroll rewards
-Berry Juice
+| Berry Juice |
 
 
-Prize 2 (Roll After Gym 1: Brock,  3 prizes, keep 1  
-Potion x2 + Ether
+| **Prize 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
+| :--------------------: | 
+| Potion x2 + Ether |
 Burn Heal + Awakening + Antidote + Parlyz Heal
 Potion + Reroll Chip
 Potion + Ether + Status Choice
@@ -276,13 +279,14 @@ Potion x3
 Potion Investment + Potion - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
 Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
 Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-Warding Charm (Beta Only) - Remove the effect of one curse in the future.
+| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
-Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1  
-Teach one of the fighting bro’s TMs (or neither)
+| **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
+| :--------------------: | 
+| Teach one of the fighting bro’s TMs (or neither) |
 Super Potion
 Elixir
-Rare Candy
+| Rare Candy |
 
 Prize 3 (Roll After Gym 2: Misty) 3 prizes, keep 1
 Super Potion x2
