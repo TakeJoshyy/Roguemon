@@ -1,12 +1,12 @@
 # RogueMON
 
-### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [CURSES](#Curses) | [PRIZES](#Prize-Pool) |
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [CURSES](#Curses) | [PRIZES](#Prize-Pool) | [ROUTING](#Forced-Route) |
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
-| **What is RogueMON?** |
+| **WHAT IS RogueMON?** |
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes. | 
 |The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
@@ -36,7 +36,7 @@
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
 # ROGUEMON RULES
-| **Lab** |
+| **LAB** |
 | :--------------------: |
 | Lab mons will always have 2 possible evolutions and the first evolution will always evolve by level. |
 | You can choose your starter in the lab. |
@@ -248,7 +248,7 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
 
-| **Prize 1 (Roll upon entering Viridian City): 3 prizes, keep 1** |
+| **PRIZE 1 (Roll upon entering Viridian City): 3 prizes, keep 1** |
 | :--------------------: | 
 | Potion + Parlyz Heal + Antidote |
 Potion x2 + Antidote
@@ -262,7 +262,7 @@ Potion + Reroll Chip - 1 time use reroll rewards
 | Berry Juice |
 
 
-| **Prize 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
+| **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
 | :--------------------: | 
 | Potion x2 + Ether |
 Burn Heal + Awakening + Antidote + Parlyz Heal
@@ -288,8 +288,9 @@ Super Potion
 Elixir
 | Rare Candy |
 
-Prize 3 (Roll After Gym 2: Misty) 3 prizes, keep 1
-Super Potion x2
+| **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
+| :--------------------: | 
+| Super Potion x2 |
 Antidote + Parlyz Heal + Awakening + Burn Heal
 Potion x3 + Any Status Heal
 Super Potion + Any Status Heal x2
@@ -304,10 +305,11 @@ Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
 Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
 Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-Warding Charm (Beta Only) - Remove the effect of one curse in the future.
+| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
-Prize 4 (Roll after Gym 3: Lt. Surge) 3 prizes, keep 1
-TM Voucher - Teach 1 Ground in the future (immediate decision)
+| **PRIZE 4 (Roll after Gym 3: Lt. Surge) 3 prizes, keep 1** |
+| :--------------------: | 
+| TM Voucher - Teach 1 Ground in the future (immediate decision) |
 Super Potion x3
 Super Potionx2 + Any Status Heal 
 HP Cap +100
@@ -319,10 +321,11 @@ Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 Temporary Item Voucher - Keep one ground item before next gym (immediate decision)
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
-Warding Charm (Beta Only) - Remove the effect of one curse in the future.
+| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
-Prize 5 (Roll after Gym 4 Erika) 3 prizes, keep 1
-1 TM from the Department Store (cannot pre-scout)
+| **PRIZE 5 (Roll after Gym 4 Erika) 3 prizes, keep 1** |
+| :--------------------: | 
+| 1 TM from the Department Store (cannot pre-scout) |
 Hyper Potion + Move Tutor 3F (cannot pre-scout)
 Hyper Potion + 1 Vitamin
 Full Heal x2 + Super Potion
@@ -336,10 +339,11 @@ HP Cap +50 + XAcc
 HP Cap + 50 + Elixir
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 X Factor - You can now keep and use Battle Items Freely
-Temporary Held Item Voucher: Keep and unlock a Found non-healing ground item. Expires Next Gym.
+| Temporary Held Item Voucher: Keep and unlock a Found non-healing ground item. Expires Next Gym. |
 
- Prize 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)  3 prizes, keep 1
-1 TM Found OR Given in bag
+| **Prize 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)  3 prizes, keep 1** |
+| :--------------------: | 
+| 1 TM Found OR Given in bag |
 Hyper Potion + Super Potion
 Hyper Potion + Full Heal
 Hyper Potion + Elixir
@@ -352,24 +356,27 @@ Revive (limit one revive item per run)
 HP Cap +100 + Status Cap +1
 HP Cap +50 + Super Potion
 Permanent Held Item Voucher - Keep one non-healing ground item you find (immediate decision)
-Fight one of Route 12|13|14|15 (treat as a segment)
+| Fight one of Route 12|13|14|15 (treat as a segment) |
 
-Prize 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1
-Full Restore
+| **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
+| :--------------------: | 
+| Full Restore |
 1 found/given TM OR relearn one move (in Celadon) + Big Mushroom
 HP Cap + 100 + Hyper Potion
 Any Battle items x2
 Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
-Fight one of Route 12|13|14|15 (treat as a segment)
+| Fight one of Route 12|13|14|15 (treat as a segment) |
 
 
 
-Forced Route
-PLS NOTE THIS IS TO BE FOLLOWED DILIGENTLY AND IS SHOWN AT THE BOTTOM OF THE TRACKER VIA THE ROGUEMON EXTENSION
+# Forced Route
 
-Rival 1 in lab
-Out of Lab (HP = 150 Status = 3)
+> PLS NOTE THIS IS TO BE FOLLOWED DILIGENTLY AND IS SHOWN AT THE BOTTOM OF THE TRACKER VIA THE ROGUEMON EXTENSION
+
+| **Rival 1 in lab** |
+| :--------------------: | 
+| Out of Lab (HP = 150 Status = 3) |
 WIN = Prize Roll (Prize 1).
 Viridian Forest
 Rival 2 (Route 22)
@@ -431,4 +438,4 @@ Rival 7
 Victory Road/Route 23
 Prize Roll (Prize 7)
 BUY/CLEANSING PHASE
-E4 + Champion
+| E4 + Champion |
