@@ -2,6 +2,8 @@
 
 ### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [CURSES](#Curses) | [PRIZES](#Prize-Pool) | [ROUTING](#Forced-Route) |
 
+# Credits and Useful Links
+
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
@@ -34,6 +36,8 @@
 |The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
+
+---
 
 # ROGUEMON RULES
 | **LAB** |
