@@ -42,7 +42,7 @@
 | You can choose your starter in the lab. |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
 
-| **Wild Pokemon** |
+| **WILD POKEMON** |
 | :--------------------: |
 | Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. |
 | NOTE: Found in Resources channel in the Roguemon Discord |
@@ -59,7 +59,7 @@
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
 
-| **Banned move/ability list** |
+| **BANNED MOVE/ABILITY LIST** |
 | :--------------------: |
 | Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
@@ -67,7 +67,7 @@
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 
-| **Bag Space Cap** |
+| **BAG SPACE CAP** |
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.     | 
 | Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
@@ -83,7 +83,7 @@
 	8 badges = HP = 700, Status = 7
 
 
-| **Trainers** |
+| **TRAINERS** |
 | :--------------------: |
 | They will have pokemon that progressively scale in power. |
 | Before level 30 - all pokemon will not be fully evolved |
@@ -96,12 +96,12 @@
 
 # Ascension Difficulty Increase 
 
-| **Ascension 1** |
+| **ASCENSION 1** |
 | :--------------------: |
 | All trainers pokemon will have a 20% level increase. |
 | Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. |
 
-| **Ascension 2** |
+| **ASCENSION 2** |
 | :--------------------: |
 | All trainers pokemon will have a 40% level increase. |
 | Huge/Pure Power is banned. |
@@ -109,7 +109,7 @@
 | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced |
 > Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
 
-| **Ascension 3** |
+| **ASCENSION 3** |
 | :--------------------: |
 All trainers pokemon will hold sensible items and have a 50% increase. 
 Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
@@ -126,7 +126,7 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
 # Items
-| **General Item Rules** |
+| **GENERAL ITEM RULES** |
 | :--------------------: |
 | All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below) |
 | All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
@@ -134,7 +134,7 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | You are not allowed to buy items at marts/shops, with the exception of pokeballs and repels. |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. (and of course you will need to buy all your prizes if you are not using the tracker extension). |
 
-| **When you pick up an item** |
+| **WHEN YOU DO PICK UP AN ITEM** |
 | :--------------------: |
 | There are four types of items, each with different rules: |
 | Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether) |
@@ -142,7 +142,7 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb) |
 | Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens) |
 
-| **Healing item** |
+| **HEALING ITEM** |
 | :--------------------: |
 | You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap. |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
@@ -150,12 +150,12 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | In the tracker, there is a toggle for this to display as a whole number and not a percentage. (Settings>Gameplay>Options) |
 | Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables. |
 
-| **Medicine item** |
+| **MEDICINE ITEM** |
 | :--------------------: |
 | It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins. |
 > Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding.
 
-| **Consumables** | 
+| **CONSUMABLES** | 
 | :--------------------: |
 | When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped. |
 | Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal. |
@@ -164,7 +164,7 @@ All Rival Fights must be completed at end of previous segment, or before next se
 | If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
 | Held berries do not count against your HP/status bag limit, but berries in your bag do. |
 
-| **Other items** |
+| **OTHER ITEMS** |
 | :--------------------: |
 | Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase. |
 | Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
@@ -192,21 +192,21 @@ You are limited to ONE revive item per run.
 | Wild pokemon may not be fought for experience unless allowed by a Prize. |
 | There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
 
-| **Gyms** |
+| **GYMS** |
 | :--------------------: |
 | Every trainer must be fought in the gym. |
 | The Gym Leader’s ace will always be holding a sensible item. |
 | Gym Leader TM must be decided to teach at time of acquisition. |
 | Upon Beating the Gym, Immediately Get your random Prize and Badge Cap Increases, then do Shop and Cleansing phase. |
 
-| **Buy Phase** |
+| **BUY PHASE** |
 | :--------------------: |
 | You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase. |
 | Max Potions and Full Restores cannot be exchanged. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
 
-| **Cleansing Phase** |
+| **CLEANSING PHASE** |
 | :--------------------: |
 | You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize. Any item you have claimed from a prize is owned, and not cleansed. |
 | The following items will never be cleansed: 
