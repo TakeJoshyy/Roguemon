@@ -54,6 +54,8 @@
 | You can choose your starter in the lab. |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
 
+---
+
 # WILD POKEMON
 | *Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer.* |
 | :--------------------: |
@@ -70,6 +72,7 @@
 | All pokemon that evolve with any stone/item now take a Rogue Stone (Moon Stone) to evolve. These can be bought in the Department Store once you have access. Rogue Stones you pick up can be kept and used at any time after gym 1. |
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
+---
 
 # BANNED MOVE/ABILITY LIST
 | **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell.** |
@@ -78,6 +81,8 @@
 | Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned. |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
+
+---
 
 # BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
@@ -94,6 +99,7 @@
 	7 badges = HP = 600, Status = 7
 	8 badges = HP = 700, Status = 7
 
+---
 
 # TRAINERS
 | **They will have pokemon that progressively scale in power.** |
@@ -105,6 +111,8 @@
 | Before level 40 - all pokemon will not be legendary/mythic/mega/etc. |
 | Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items. |
 > NOTE: Perish Song is completely removed from trainers!
+
+---
 
 # Ascension Difficulty Increase 
 
@@ -121,7 +129,7 @@
 | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced |
 > Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
 
-#ASCENSION 3
+# ASCENSION 3
 | **All trainers pokemon will hold sensible items and have a 50% increase.** | 
 | :--------------------: |
 Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
@@ -131,57 +139,73 @@ Shell Bell is banned if your BST is 500 or higher.
 Nurse Trainers cannot be fought unless otherwise stated or forced.
 | All Rival Fights must be completed at end of previous segment, or before next segment (player choice) |
 
+---
+
 # TMs
 | **All TMs have full compatibility, however...** |
 | :--------------------: |
 | Gym TMs can be taught without restriction, but you must decide to teach immediately. |
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
+---
+
 # Items
-| **GENERAL ITEM RULES** |
+
+# GENERAL ITEM RULES
+| **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
-| All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below) |
 | All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
 | You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
 | You are not allowed to buy items at marts/shops, with the exception of pokeballs and repels. |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. (and of course you will need to buy all your prizes if you are not using the tracker extension). |
 
-| **WHEN YOU DO PICK UP AN ITEM** |
+---
+
+# WHEN YOU DO PICK UP AN ITEM
+| **There are four types of items, each with different rules:** |
 | :--------------------: |
-| There are four types of items, each with different rules: |
 | Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether) |
 | Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up) |
 | Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb) |
 | Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens) |
 
-| **HEALING ITEM** |
+---
+
+# HEALING ITEM
+| **You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.** |
 | :--------------------: |
-| You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap. |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
 | All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP. |
 | In the tracker, there is a toggle for this to display as a whole number and not a percentage. (Settings>Gameplay>Options) |
 | Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables. |
 
-| **MEDICINE ITEM** |
+---
+
+# MEDICINE ITEM
+| **It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins.** |
 | :--------------------: |
-| It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins. |
 > Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding.
 
-| **CONSUMABLES** | 
+---
+
+# CONSUMABLES
+| **When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped.** |
 | :--------------------: |
-| When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped. |
 | Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal. |
 | You may choose to equip these berries; if you do, then they are treated like normal consumables. |
 | If the consumable replaces another consumable, the one being unequipped is trashed and lost. |
 | If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
 | Held berries do not count against your HP/status bag limit, but berries in your bag do. |
 
-| **OTHER ITEMS** |
-| :--------------------: |
-| Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase. |
-| Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
+---
 
+# OTHER ITEMS
+| **Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
+| :--------------------: |
+| Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
 > Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. This item must be trashed during the cleansing phase after completing Gym 1.
+
+---
 
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock it with a Ground Item prize, or if you obtain it from a prize roll.
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use Cut with the HM friend until it faints.
@@ -189,6 +213,7 @@ As such, your HM friend should always be with you if you have one.
 If a trainer swaps your HM friend in, you may attack with Cut until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
 You are limited to ONE revive item per run.
 
+---
 
 # Game Progression
 
@@ -204,23 +229,28 @@ You are limited to ONE revive item per run.
 | Wild pokemon may not be fought for experience unless allowed by a Prize. |
 | There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
 
-| **GYMS** |
+---
+
+# GYMS
+| **Every trainer must be fought in the gym.** |
 | :--------------------: |
-| Every trainer must be fought in the gym. |
 | The Gym Leader’s ace will always be holding a sensible item. |
 | Gym Leader TM must be decided to teach at time of acquisition. |
 | Upon Beating the Gym, Immediately Get your random Prize and Badge Cap Increases, then do Shop and Cleansing phase. |
 
-| **BUY PHASE** |
+---
+
+# BUY PHASE
+| **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
-| You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase. |
 | Max Potions and Full Restores cannot be exchanged. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
+---
 
-| **CLEANSING PHASE** |
+# CLEANSING PHASE
+| **You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize. Any item you have claimed from a prize is owned, and not cleansed.** |
 | :--------------------: |
-| You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize. Any item you have claimed from a prize is owned, and not cleansed. |
 | The following items will never be cleansed: 
 Repels 
 Heals (PP, HP, status)
@@ -230,6 +260,8 @@ anything you earned from the Shop phase or Prize.
 You may keep mushrooms(move relearner), but you may not use them unless permitted by a Prize roll.
 You may keep ONE RogueStone (Moon Stone; evolves all stone/item evolution pokemon).
 Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
+
+---
 
 # Curses
 
@@ -256,10 +288,13 @@ Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
 Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types). You can see your current typing in the tracker.
 | No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
 
+---
+
 # Prize Rolls
 
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
 
+# PRIZE 1
 | **PRIZE 1 (Roll upon entering Viridian City): 3 prizes, keep 1** |
 | :--------------------: | 
 | Potion + Parlyz Heal + Antidote |
@@ -273,7 +308,9 @@ Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can a
 Potion + Reroll Chip - 1 time use reroll rewards
 | Berry Juice |
 
+---
 
+# PRIZE 2
 | **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
 | :--------------------: | 
 | Potion x2 + Ether |
@@ -293,6 +330,9 @@ Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
 Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
 | Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
+---
+
+# MT. MOON PRIZE
 | **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
 | :--------------------: | 
 | Teach one of the fighting bro’s TMs (or neither) |
@@ -300,6 +340,9 @@ Super Potion
 Elixir
 | Rare Candy |
 
+---
+
+# PRIZE 3
 | **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
 | :--------------------: | 
 | Super Potion x2 |
@@ -319,6 +362,9 @@ Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
 Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
 | Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
+---
+
+# PRIZE 4
 | **PRIZE 4 (Roll after Gym 3: Lt. Surge) 3 prizes, keep 1** |
 | :--------------------: | 
 | TM Voucher - Teach 1 Ground in the future (immediate decision) |
@@ -335,6 +381,9 @@ Temporary Item Voucher - Keep one ground item before next gym (immediate decisio
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 | Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
 
+---
+
+# PRIZE 5
 | **PRIZE 5 (Roll after Gym 4 Erika) 3 prizes, keep 1** |
 | :--------------------: | 
 | 1 TM from the Department Store (cannot pre-scout) |
@@ -353,6 +402,9 @@ Berry Pouch - HP Berries may be stored instead of equipped|status berry do not c
 X Factor - You can now keep and use Battle Items Freely
 | Temporary Held Item Voucher: Keep and unlock a Found non-healing ground item. Expires Next Gym. |
 
+---
+
+# PRIZE 6
 | **Prize 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)  3 prizes, keep 1** |
 | :--------------------: | 
 | 1 TM Found OR Given in bag |
@@ -370,6 +422,9 @@ HP Cap +50 + Super Potion
 Permanent Held Item Voucher - Keep one non-healing ground item you find (immediate decision)
 | Fight one of Route 12|13|14|15 (treat as a segment) |
 
+---
+
+# PRIZE 7
 | **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
 | :--------------------: | 
 | Full Restore |
@@ -380,7 +435,7 @@ Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
 | Fight one of Route 12|13|14|15 (treat as a segment) |
 
-
+---
 
 # Forced Route
 
