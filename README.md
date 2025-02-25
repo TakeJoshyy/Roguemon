@@ -26,19 +26,21 @@
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
+>
+> ---
 
-| **IRONMON** |
+# IRONMON
+| **Roguelikes and Ironmon both have a “permadeath” feature.** | 
 | :--------------------: |
-| Roguelikes and Ironmon both have a “permadeath” feature. | 
 | The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example:Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
-| **ROGUELIKES** |
+# ROGUELIKES
+| **Often have difficult choices and a “linear” element.** | 
 | :--------------------: |
-| Often have difficult choices and a “linear” element. | 
 |The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
