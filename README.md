@@ -1,10 +1,10 @@
 # RogueMON
 
-### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#Ascension-Difficulty-Increase) | [ITEMS](#Items) | [GAME PROGRESSION](#Game-Progression) | [CURSES](#Curses) | [PRIZES](#Prize-Pool) | [ROUTING](#Forced-Route) |
+### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#ASCENSION-DIFFICULTY-INCREASE) | [ITEMS](#ITEMS) | [GAME PROGRESSION](#GAME-PROGRESSION) | [CURSES](#CURSES) | [PRIZES](#PRIZE-ROLLS) | [ROUTING](#FORCED-ROUTE) | [SETTINGS](#SETTINGS) |
 
 ---
 
-# Credits and Useful Links
+# CREDITS AND USEFUL LINKS
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
 | :--------------------: |
@@ -114,7 +114,7 @@
 
 ---
 
-# Ascension Difficulty Increase 
+# ASCENSION DIFFICULTY INCREASE
 
 # ASCENSION 1
 | **All trainers pokemon will have a 20% level increase.** |
@@ -149,7 +149,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# Items
+# ITEMS
 
 # GENERAL ITEM RULES
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
@@ -215,7 +215,7 @@ You are limited to ONE revive item per run.
 
 ---
 
-# Game Progression
+# GAME PROGRESSION
 
 | **The game mode is meant to be linear. There is FORCED ROUTING.** |
 | :--------------------: |
@@ -263,7 +263,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
 ---
 
-# Curses
+# CURSES
 
 | **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
 | :--------------------: |
@@ -290,7 +290,7 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 
 ---
 
-# Prize Rolls
+# PRIZE ROLLS
 
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
 
@@ -437,7 +437,7 @@ Full Heal x2 + Elixir x2
 
 ---
 
-# Forced Route
+# FORCED ROUTE
 
 > PLS NOTE THIS IS TO BE FOLLOWED DILIGENTLY AND IS SHOWN AT THE BOTTOM OF THE TRACKER VIA THE ROGUEMON EXTENSION
 
@@ -473,3 +473,5 @@ Giovanni, (+100 HP Cap), Win = Prize Roll (Prize 6), BUY/CLEANSING PHASE
 Rival 7
 Victory Road/Route 23, Prize Roll (Prize 7), BUY/CLEANSING PHASE
 | E4 + Champion |
+
+# SETTINGS
