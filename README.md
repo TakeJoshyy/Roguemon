@@ -48,15 +48,15 @@
 ---
 
 # ROGUEMON RULES
-| **LAB** |
+# LAB
+| **Lab mons will always have 2 possible evolutions and the first evolution will always evolve by level.** |
 | :--------------------: |
-| Lab mons will always have 2 possible evolutions and the first evolution will always evolve by level. |
 | You can choose your starter in the lab. |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
 
-| **WILD POKEMON** |
+# WILD POKEMON
+| *Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer.* |
 | :--------------------: |
-| Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer. |
 | NOTE: Found in Resources channel in the Roguemon Discord |
 | Pokemon in the wild have a 100% catch rate. |
 | Wild Pokemon have a 50% increase to their level in all ascensions. |
@@ -71,17 +71,17 @@
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
 
-| **BANNED MOVE/ABILITY LIST** |
+# BANNED MOVE/ABILITY LIST
+| **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell.** |
 | :--------------------: |
-| Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell. |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned. |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 
-| **BAG SPACE CAP** |
+# BAG SPACE CAP
+| **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.     | 
 | Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
 | Caps do not apply until you have locked in your pokemon to run.                                                                            |
 	0 badges = HP = 150 Status = 3
@@ -95,9 +95,9 @@
 	8 badges = HP = 700, Status = 7
 
 
-| **TRAINERS** |
+# TRAINERS
+| **They will have pokemon that progressively scale in power.** |
 | :--------------------: |
-| They will have pokemon that progressively scale in power. |
 | Before level 30 - all pokemon will not be fully evolved |
 | Before level 20  - all pokemon must be able to evolve again, and are <500BST. |
 | Between level 20 and level 29 - all pokemon will be at least 320 BST. |
@@ -108,32 +108,32 @@
 
 # Ascension Difficulty Increase 
 
-| **ASCENSION 1** |
+# ASCENSION 1
+| **All trainers pokemon will have a 20% level increase.** |
 | :--------------------: |
-| All trainers pokemon will have a 20% level increase. |
 | Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. |
 
-| **ASCENSION 2** |
+# ASCENSION 2
+| **All trainers pokemon will have a 40% level increase.** |
 | :--------------------: |
-| All trainers pokemon will have a 40% level increase. |
 | Huge/Pure Power is banned. |
 | Shell Bell is banned if your BST is 500 or higher. |
 | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced |
 > Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
 
-| **ASCENSION 3** |
+#ASCENSION 3
+| **All trainers pokemon will hold sensible items and have a 50% increase.** | 
 | :--------------------: |
-All trainers pokemon will hold sensible items and have a 50% increase. 
 Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
 X items that boost these stats are also still allowed.
 Huge/Pure Power is banned.
 Shell Bell is banned if your BST is 500 or higher.
 Nurse Trainers cannot be fought unless otherwise stated or forced.
-All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
+| All Rival Fights must be completed at end of previous segment, or before next segment (player choice) |
 
-| **TMs** |
+# TMs
+| **All TMs have full compatibility, however...** |
 | :--------------------: |
-| All TMs have full compatibility, however... |
 | Gym TMs can be taught without restriction, but you must decide to teach immediately. |
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
