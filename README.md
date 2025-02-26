@@ -7,6 +7,7 @@
 # CREDITS AND USEFUL LINKS
 
 | **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
+| Credit to something_smart_ for the development of the Roguemon Tracker Extension! |
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
