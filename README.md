@@ -26,8 +26,8 @@
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
->
-> ---
+
+---
 
 # IRONMON
 | **Roguelikes and Ironmon both have a “permadeath” feature.** | 
@@ -48,7 +48,7 @@
 
 ---
 
-# ROGUEMON RULES
+| **# ROGUEMON RULES** |
 # LAB
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
