@@ -47,11 +47,10 @@
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
 ---
-<p align="center">
-#ROGUEMON RULES
-</p>
 
-### LAB
+# ROGUEMON RULES
+
+## LAB
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
@@ -59,7 +58,7 @@
 
 ---
 
-# WILD POKEMON
+## WILD POKEMON
 | *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the Roguemon-randomizer.* |
 | :--------------------: |
 | NOTE: Found in Resources channel in the Roguemon Discord |
@@ -76,7 +75,7 @@
 
 ---
 
-# BANNED MOVE/ABILITY LIST
+## BANNED MOVE/ABILITY LIST
 | **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
@@ -86,7 +85,7 @@
 
 ---
 
-# BAG SPACE CAP
+## BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
@@ -103,7 +102,7 @@
 
 ---
 
-# TRAINERS
+## TRAINERS
 | **They will have pokemon that progressively scale in power.** |
 | :--------------------: |
 | Before level 30 - all pokemon will not be fully evolved |
