@@ -119,30 +119,6 @@
 
 <h1 align="center">ASCENSION DIFFICULTY INCREASE</h1>
 
-# ASCENSION 1
-| **All trainers pokemon will have a 20% level increase.** |
-| :--------------------: |
-| Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. |
-
-# ASCENSION 2
-| **All trainers pokemon will have a 40% level increase.** |
-| :--------------------: |
-| Huge/Pure Power is banned. |
-| Shell Bell is banned if your BST is 500 or higher. |
-| Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced |
-| 5 random segments will be Cursed, applying negative effects to you while you are in that segment. |
-
-# ASCENSION 3
-| **All trainers pokemon will hold sensible items and have a 50% increase.** | 
-| :--------------------: |
-Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage).
-X items that boost these stats are still allowed.
-Huge/Pure Power is banned.
-Shell Bell is banned if your BST is 500 or higher.
-Nurse Trainers cannot be fought unless otherwise stated or forced.
-| All Rival Fights must be completed at end of previous segment, or before next segment (player choice) |
-| 5 random segments will be Cursed, applying negative effects to you while you are in that segment. |
-
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
