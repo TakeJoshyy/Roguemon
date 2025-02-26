@@ -48,9 +48,7 @@
 
 ---
 
-<p align="center">
 # ROGUEMON RULES
-</p>
 # LAB
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
