@@ -34,7 +34,7 @@
 | :--------------------: |
 | The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
-> Example:Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
+> Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
@@ -153,9 +153,9 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# ITEMS
+<h1 align="center">items</h1>
 
-# GENERAL ITEM RULES
+## GENERAL ITEM RULES
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
 | All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
@@ -165,7 +165,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# WHEN YOU DO PICK UP AN ITEM
+## WHEN YOU DO PICK UP AN ITEM
 | **There are four types of items, each with different rules:** |
 | :--------------------: |
 | Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether) |
@@ -175,7 +175,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# HEALING ITEMS
+## HEALING ITEMS
 | **You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.** |
 | :--------------------: |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
@@ -185,14 +185,14 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# MEDICINE ITEM
+## MEDICINE ITEM
 | **It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins.** |
 | :--------------------: |
 > Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding and before fighting the first trainer.
 
 ---
 
-# CONSUMABLES
+## CONSUMABLES
 | **When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped.** |
 | :--------------------: |
 | Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal. |
@@ -203,7 +203,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# OTHER ITEMS
+## OTHER ITEMS
 | **Between Gyms, Items you find Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
@@ -219,7 +219,7 @@ You are limited to winning ONE revive item per run.
 
 ---
 
-# GAME PROGRESSION
+<h1 align="center">GAME PROGRESSION</h1>
 
 | **The game mode is meant to be linear. There is FORCED ROUTING.** |
 | :--------------------: |
@@ -235,7 +235,7 @@ You are limited to winning ONE revive item per run.
 
 ---
 
-# GYMS
+## GYMS
 | **Every trainer must be fought in the gym.** |
 | :--------------------: |
 | The Gym Leader’s ace will always be holding a sensible item. |
@@ -244,7 +244,7 @@ You are limited to winning ONE revive item per run.
 
 ---
 
-# BUY PHASE
+## BUY PHASE
 | **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
 | Buy Phase can only make use of items available in PokeShops. (No Vending Machines) |
@@ -253,7 +253,7 @@ You are limited to winning ONE revive item per run.
 
 ---
 
-# CLEANSING PHASE
+## CLEANSING PHASE
 | **You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize. Any item you have claimed from a prize is owned, and not cleansed.** |
 | :--------------------: |
 | The following items will never be cleansed: 
@@ -267,7 +267,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
 ---
 
-# CURSES
+## CURSES
 
 | **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
 | :--------------------: |
@@ -294,11 +294,11 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 
 ---
 
-# PRIZE ROLLS
+<h1 align="center">PRIZE ROLLS</h1>
 
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the Roguemon Discord)
 
-# PRIZE 1
+## PRIZE 1
 | **PRIZE 1 (Roll upon exiting the lab): 3 prizes, keep 1** |
 | :--------------------: | 
 | Potion + Parlyz Heal + Antidote |
@@ -314,7 +314,7 @@ Potion + Reroll Chip - 1 time use reroll rewards
 
 ---
 
-# PRIZE 2
+## PRIZE 2
 | **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
 | :--------------------: | 
 | Potion x2 + Ether |
@@ -336,7 +336,7 @@ Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot.
 
 ---
 
-# MT. MOON PRIZE
+## MT. MOON PRIZE
 | **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
 | :--------------------: | 
 | Teach one of the fighting bro’s TMs (or neither) |
@@ -346,7 +346,7 @@ Elixir
 
 ---
 
-# PRIZE 3
+## PRIZE 3
 | **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
 | :--------------------: | 
 | Super Potion x2 |
@@ -368,7 +368,7 @@ Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot.
 
 ---
 
-# PRIZE 4
+## PRIZE 4
 | **PRIZE 4 (Roll after Gym 3: Lt. Surge) 3 prizes, keep 1** |
 | :--------------------: | 
 | TM Voucher - Teach 1 Ground in the future (immediate decision) |
@@ -387,7 +387,7 @@ Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 
 ---
 
-# PRIZE 5
+## PRIZE 5
 | **PRIZE 5 (Roll after Gym 4 Erika) 3 prizes, keep 1** |
 | :--------------------: | 
 | 1 TM from the Department Store (cannot pre-scout) |
@@ -408,7 +408,7 @@ X Factor - You can now keep and use Battle Items Freely
 
 ---
 
-# PRIZE 6
+## PRIZE 6
 | **Prize 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)  3 prizes, keep 1** |
 | :--------------------: | 
 | 1 TM Found OR Given in bag |
@@ -428,7 +428,7 @@ Permanent Held Item Voucher - Keep one non-healing ground item you find (immedia
 
 ---
 
-# PRIZE 7
+## PRIZE 7
 | **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
 | :--------------------: | 
 | Full Restore |
@@ -441,7 +441,7 @@ Full Heal x2 + Elixir x2
 
 ---
 
-# FORCED ROUTE
+<h1 align="center">FORCED ROUTE</h1>
 
 > PLS NOTE THIS IS TO BE FOLLOWED DILIGENTLY AND IS SHOWN AT THE BOTTOM OF THE TRACKER VIA THE ROGUEMON EXTENSION
 
@@ -478,4 +478,4 @@ Rival 7
 Victory Road/Route 23, Prize Roll (Prize 7), BUY/CLEANSING PHASE
 | E4 + Champion |
 
-# SETTINGS
+<h1 align="center">SETTINGS</h1>
