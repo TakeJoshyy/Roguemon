@@ -48,7 +48,7 @@
 
 ---
 <p align="center">
-// # ROGUEMON RULES
+# ROGUEMON RULES
 </p>
 
 **LAB**
