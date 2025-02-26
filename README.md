@@ -115,7 +115,7 @@
 
 ---
 
-# ASCENSION DIFFICULTY INCREASE
+<h1 align="center">ASCENSION DIFFICULTY INCREASE</h1>
 
 # ASCENSION 1
 | **All trainers pokemon will have a 20% level increase.** |
