@@ -47,8 +47,10 @@
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
 ---
+<p align="center">
+// # ROGUEMON RULES
+</p>
 
-# ROGUEMON RULES
 **LAB**
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
