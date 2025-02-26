@@ -13,9 +13,9 @@
 ---
 
 # WHAT IS RogueMON?
-| **RogueMON combines elements of Randomized Pokemon Evolutions, Ironmon game modes and Roguelikes.** | 
+| **RogueMON combines elements of Roguelikes, Ironmon Game Modes, and Randomized Challenges.** | 
 | :--------------------: |
-|The goal is to win by locking every pokemon type and finishing a run without fainting. Reminder that it is subject to balance changes. Share your thoughts/opinions in the discord forums. All resources to get set up available in the discord listed above.|
+|The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.|
 
 ---
 
@@ -41,7 +41,8 @@
 # ROGUELIKES
 | **Often have difficult choices and a “linear” element.** | 
 | :--------------------: |
-|The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
+| The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
+| There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
 
@@ -49,7 +50,7 @@
 
 # ROGUEMON RULES
 # LAB
-| **Lab mons will always have 2 possible evolutions and the first evolution will always evolve by level.** |
+| **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
@@ -57,7 +58,7 @@
 ---
 
 # WILD POKEMON
-| *Wild pokemon will be any unevolved pokemon that can evolve by level or by Rogue Stone (Moon Stone). Type can be specified in the RogueMon-randomizer.* |
+| *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the RogueMon-randomizer.* |
 | :--------------------: |
 | NOTE: Found in Resources channel in the Roguemon Discord |
 | Pokemon in the wild have a 100% catch rate. |
@@ -69,13 +70,13 @@
 | You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run. |
-| All pokemon that evolve with any stone/item now take a Rogue Stone (Moon Stone) to evolve. These can be bought in the Department Store once you have access. Rogue Stones you pick up can be kept and used at any time after gym 1. |
+| All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. These can be bought in the Department Store once you have access. Roguestones you find randomly can be kept and used at any time after gym 1. |
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
 ---
 
 # BANNED MOVE/ABILITY LIST
-| **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Drain punch/Giga Drain or Shell Bell.** |
+| **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | Any move/ability combo that guarantees OHKO or sleep (with No Guard or CompoundEyes) is banned. |
@@ -87,7 +88,7 @@
 # BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| Caps are tracked automatically in the Tracker. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
+| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
 | Caps do not apply until you have locked in your pokemon to run.                                                                            |
 	0 badges = HP = 150 Status = 3
 	1 badge = HP = 200, Status = 5
@@ -127,17 +128,18 @@
 | Huge/Pure Power is banned. |
 | Shell Bell is banned if your BST is 500 or higher. |
 | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced |
-> Coming soon - some segments will be Cursed, applying negative effects to you while you are in that segment.
+| 5 random segments will be Cursed, applying negative effects to you while you are in that segment. |
 
 # ASCENSION 3
 | **All trainers pokemon will hold sensible items and have a 50% increase.** | 
 | :--------------------: |
-Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Charge Beam).
-X items that boost these stats are also still allowed.
+Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage).
+X items that boost these stats are still allowed.
 Huge/Pure Power is banned.
 Shell Bell is banned if your BST is 500 or higher.
 Nurse Trainers cannot be fought unless otherwise stated or forced.
 | All Rival Fights must be completed at end of previous segment, or before next segment (player choice) |
+| 5 random segments will be Cursed, applying negative effects to you while you are in that segment. |
 
 ---
 
@@ -171,7 +173,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-# HEALING ITEM
+# HEALING ITEMS
 | **You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.** |
 | :--------------------: |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
@@ -184,7 +186,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 # MEDICINE ITEM
 | **It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins.** |
 | :--------------------: |
-> Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding.
+> Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding and before fighting the first trainer.
 
 ---
 
@@ -192,18 +194,18 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 | **When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped.** |
 | :--------------------: |
 | Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal. |
-| You may choose to equip these berries; if you do, then they are treated like normal consumables. |
-| If the consumable replaces another consumable, the one being unequipped is trashed and lost. |
+| You may choose to equip status/pp berries; if you do, then they are treated like normal consumables. |
+| If the consumable replaces another consumable, the one being unequipped must be trashed/used. |
 | If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
 | Held berries do not count against your HP/status bag limit, but berries in your bag do. |
 
 ---
 
 # OTHER ITEMS
-| **Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll (generally done after each gym). If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
+| **Between Gyms, Items you find Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
-> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. This item must be trashed during the cleansing phase after completing Gym 1.
+> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1.
 
 ---
 
@@ -211,7 +213,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use Cut with the HM friend until it faints.
 As such, your HM friend should always be with you if you have one.
 If a trainer swaps your HM friend in, you may attack with Cut until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
-You are limited to ONE revive item per run.
+You are limited to winning ONE revive item per run.
 
 ---
 
@@ -220,14 +222,14 @@ You are limited to ONE revive item per run.
 | **The game mode is meant to be linear. There is FORCED ROUTING.** |
 | :--------------------: |
 | The game is divided into segments, which comprise one or more routes/areas. |
-| Unless forced to by story, you must clear a segment in one attempt without healing. |
+| Unless forced to by story, you must clear a segment in one attempt without healing at a Pokemon Center. |
 | You may use the Pokemon Center upon completing any segment. |
 | Healing HP and Status using items is allowed outside of battle. |
 | You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience. |
 | All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited. |
 | Any picked up item must be followed by an immediate decision if required. |
 | Wild pokemon may not be fought for experience unless allowed by a Prize. |
-| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
+| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in Roguemon. |
 
 ---
 
@@ -243,6 +245,7 @@ You are limited to ONE revive item per run.
 # BUY PHASE
 | **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
+| Buy Phase can only make use of items available in PokeShops. (No Vending Machines) |
 | Max Potions and Full Restores cannot be exchanged. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
@@ -257,8 +260,7 @@ Heals (PP, HP, status)
 Battle items you have unlocked via Prize
 Held items you have unlocked via Prize
 anything you earned from the Shop phase or Prize.
-You may keep mushrooms(move relearner), but you may not use them unless permitted by a Prize roll.
-You may keep ONE RogueStone (Moon Stone; evolves all stone/item evolution pokemon).
+You may keep any found Roguestones (evolves all stone/item evolution pokemon).
 Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
 ---
@@ -292,10 +294,10 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 
 # PRIZE ROLLS
 
-> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION
+> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the Roguemon Discord)
 
 # PRIZE 1
-| **PRIZE 1 (Roll upon entering Viridian City): 3 prizes, keep 1** |
+| **PRIZE 1 (Roll upon exiting the lab): 3 prizes, keep 1** |
 | :--------------------: | 
 | Potion + Parlyz Heal + Antidote |
 Potion x2 + Antidote
