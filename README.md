@@ -6,7 +6,7 @@
 
 # CREDITS AND USEFUL LINKS
 
-| **RogueMON was created and developed by https://www.twitch.tv/crozwords** |
+| **RogueMON was created by https://www.twitch.tv/crozwords** |
 | :--------------------: |
 | Join the RogueMON community: https://discord.gg/C88N88yfCP |
 
