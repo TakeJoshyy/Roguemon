@@ -144,6 +144,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. |
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
+-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. | Huge/Pure Power is banned. | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage).
 
