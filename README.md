@@ -153,7 +153,7 @@ Nurse Trainers cannot be fought unless otherwise stated or forced.
 
 ---
 
-<h1 align="center">items</h1>
+<h1 align="center">ITEMS</h1>
 
 ## GENERAL ITEM RULES
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
