@@ -51,7 +51,7 @@
 #ROGUEMON RULES
 </p>
 
-**LAB**
+### LAB
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
