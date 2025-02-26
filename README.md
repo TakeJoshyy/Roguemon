@@ -58,7 +58,7 @@
 ---
 
 # WILD POKEMON
-| *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the RogueMon-randomizer.* |
+| *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the Roguemon-randomizer.* |
 | :--------------------: |
 | NOTE: Found in Resources channel in the Roguemon Discord |
 | Pokemon in the wild have a 100% catch rate. |
@@ -71,7 +71,6 @@
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. These can be bought in the Department Store once you have access. Roguestones you find randomly can be kept and used at any time after gym 1. |
-<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20wild%20pokemon.png" width="300" height="240">
 
 ---
 
