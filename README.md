@@ -19,7 +19,7 @@
 
 ---
 
-# ROGUELIKES
+## ROGUELIKES
 | **Often have difficult choices and a “linear” element.** | 
 | :--------------------: |
 | The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
@@ -31,7 +31,7 @@
 
 ---
 
-# IRONMON
+## IRONMON
 | **Roguelikes and Ironmon both have a “permadeath” feature.** | 
 | :--------------------: |
 | The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
@@ -42,7 +42,7 @@
 
 ---
 
-# EVOLUTIONS 
+## EVOLUTIONS 
 | **All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic:** |
 | :--------------------: |
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
