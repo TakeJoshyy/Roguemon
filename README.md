@@ -129,8 +129,8 @@ Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of p
 N/A | Shell Bell is banned if your BST is 500 or higher. | Shell Bell is banned if your BST is 500 or higher.
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment.
-N/A | N/A | Draining Kiss is banned
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
+N/A | N/A | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 
 ---
