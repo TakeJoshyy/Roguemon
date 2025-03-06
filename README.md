@@ -34,7 +34,7 @@
 # IRONMON
 | **Roguelikes and Ironmon both have a “permadeath” feature.** | 
 | :--------------------: |
-| The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
+| The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
@@ -47,7 +47,7 @@
 | :--------------------: |
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
-| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
+| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. Note, this will not be known until it is hit!|
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
 
 ---
@@ -74,8 +74,8 @@
 | You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
 | You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
-| After locking your pokemon, you can catch and release any wild pokemon you wish later on in the run. |
-| All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. These can be bought in the Department Store once you have access. Roguestones you find randomly can be kept and used at any time after gym 1. |
+| After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run. |
+| All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
 
 ---
 
