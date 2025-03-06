@@ -1,12 +1,12 @@
-# RogueMON
+# RogueMon
 
 ### [ABOUT](#RogueMON) | [RULES](#ROGUEMON-RULES) | [ASCENSIONS](#ASCENSION-DIFFICULTY-INCREASE) | [ITEMS](#ITEMS) | [GAME PROGRESSION](#GAME-PROGRESSION) | [CURSES](#CURSES) | [PRIZES](#PRIZE-ROLLS) | [ROUTING](#FORCED-ROUTE) | [SETTINGS](#SETTINGS) |
 
 ---
 
-# CREDITS AND USEFUL LINKS
+# <h1 align="center">CREDITS AND USEFUL LINKS</h1>
 
-| **RogueMON was created by https://www.twitch.tv/crozwords** |
+| **RogueMon was created by https://www.twitch.tv/crozwords** |
 | :--------------------: |
 | Join the RogueMON community and find necessary resources to play: https://discord.gg/C88N88yfCP |
 
