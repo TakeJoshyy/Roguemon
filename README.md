@@ -148,10 +148,11 @@ N/A | N/A | All Rival Fights must be completed at end of previous segment, or be
 ## GENERAL ITEM RULES
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
-| All irregular items are banned. I.e. rock smash, step items (FRLG, including Underground Tunnels). Legal items are limited to visible, hidden, and NPC gift. You can use the item your pokemon was holding when you caught it (although not items held by pokemon you didn’t choose), along with items obtained from the Pickup ability. |
-| You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
-| You are not allowed to buy items at marts/shops, with the exception of pokeballs and repels. |
-| Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. (and of course you will need to buy all your prizes if you are not using the tracker extension). |
+| Legal items are limited to visible, hidden, and NPC gift. |
+| ALL step items are banned. |
+| No buying items in shops unless allowed from a prize. Repels only exception. |
+| No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
+| Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
 
 ---
 
@@ -159,7 +160,7 @@ N/A | N/A | All Rival Fights must be completed at end of previous segment, or be
 | **There are four types of items, each with different rules:** |
 | :--------------------: |
 | Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether) |
-| Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up) |
+| Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up, Calcium) |
 | Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb) |
 | Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens) |
 
@@ -168,9 +169,9 @@ N/A | N/A | All Rival Fights must be completed at end of previous segment, or be
 ## HEALING ITEMS
 | **You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.** |
 | :--------------------: |
+| In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options) |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
 | All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP. |
-| In the tracker, there is a toggle for this to display as a whole number and not a percentage. (Settings>Gameplay>Options) |
 | Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables. |
 
 ---
@@ -194,18 +195,18 @@ N/A | N/A | All Rival Fights must be completed at end of previous segment, or be
 ---
 
 ## OTHER ITEMS
-| **Between Gyms, Items you find Can be kept temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize roll. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
+| **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
-| Think of your bag as a temporary holding space for some possible items you can win when you do a Prize roll. |
+| Think of your bag as a temporary holding space for some possible items you can win when you get a prize. |
 > Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1.
 
 ---
 
-> Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock it with a Ground Item prize, or if you obtain it from a prize roll.
-If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use Cut with the HM friend until it faints.
+> Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
+If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
 As such, your HM friend should always be with you if you have one.
-If a trainer swaps your HM friend in, you may attack with Cut until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
-You are limited to winning ONE revive item per run.
+If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
+You are limited to owning ONE revive item per run.
 
 ---
 
@@ -216,7 +217,7 @@ You are limited to winning ONE revive item per run.
 | The game is divided into segments, which comprise one or more routes/areas. |
 | Unless forced to by story, you must clear a segment in one attempt without healing at a Pokemon Center. |
 | You may use the Pokemon Center upon completing any segment. |
-| Healing HP and Status using items is allowed outside of battle. |
+| Healing HP, Status, and PP using items is allowed outside of battle. |
 | You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience. |
 | All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited. |
 | Any picked up item must be followed by an immediate decision if required. |
@@ -230,7 +231,7 @@ You are limited to winning ONE revive item per run.
 | :--------------------: |
 | The Gym Leader’s ace will always be holding a sensible item. |
 | Gym Leader TM must be decided to teach at time of acquisition. |
-| Upon Beating the Gym, Immediately Get your random Prize and Badge Cap Increases, then do Shop and Cleansing phase. |
+| Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random Prize choice. Afterwards comes *Buy Phase* and *Cleansing phase*. |
 
 ---
 
@@ -251,7 +252,7 @@ Repels
 Heals (PP, HP, status)
 Battle items you have unlocked via Prize
 Held items you have unlocked via Prize
-anything you earned from the Shop phase or Prize.
+Anything you earned from the Shop phase or Prize.
 You may keep any found Roguestones (evolves all stone/item evolution pokemon).
 Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
@@ -320,9 +321,9 @@ Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
 Temporary TM Voucher - Teach ground TM found before the next badge (immediate choice)
 Potion x3
 Potion Investment + Potion - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
-Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
-Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
+Nature Mint - Change your pokemon’s nature to one of your choice.
+Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
 
 ---
 
@@ -352,9 +353,9 @@ Temporary Item voucher: you may keep and unlock one non-healing ground item that
 Ground TM 
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
-Nature Mint (Beta Only) - Change your pokemon’s nature to one of your choice.
-Ability Capsule (Beta Only) - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
+Nature Mint - Change your pokemon’s nature to one of your choice.
+Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
 
 ---
 
@@ -373,7 +374,7 @@ Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 Temporary Item Voucher - Keep one ground item before next gym (immediate decision)
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
-| Warding Charm (Beta Only) - Remove the effect of one curse in the future. |
+| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
 
 ---
 
