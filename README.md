@@ -12,7 +12,7 @@
 
 ---
 
-# WHAT IS RogueMON?
+<h1 align="center">What is RogueMon?</h1>
 | **RogueMON combines elements of Roguelikes, Ironmon Game Modes, and Randomized Challenges.** | 
 | :--------------------: |
 |The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.|
