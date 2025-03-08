@@ -125,13 +125,14 @@
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
-Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. | Huge/Pure Power is banned. | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
+Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. | Huge/Pure Power is banned. | Huge/Pure Power is banned.
 N/A | Shell Bell is banned if your BST is 500 or higher. | Shell Bell is banned if your BST is 500 or higher.
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
 N/A | N/A | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
+N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
 
 ---
 
@@ -150,7 +151,7 @@ N/A | N/A | All Rival Fights must be completed at end of previous segment, or be
 | :--------------------: |
 | Legal items are limited to visible, hidden, and NPC gift. |
 | ALL step items are banned. |
-| No buying items in shops unless allowed from a prize. Repels only exception. |
+| No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS! |
 | No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
 
