@@ -85,7 +85,7 @@
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
-| Compound Eyes + Sleep moves are banned in AS2 and AS3 |
+| Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
 | Any move/ability combo that guarantees OHKO is banned. |
 
 ---
