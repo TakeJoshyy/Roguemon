@@ -207,7 +207,7 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
 As such, your HM friend should always be with you if you have one.
 If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center.
-You are limited to owning ONE revive item per run.
+You are limited to ONE HM friend, and owning ONE revive item per run.
 
 ---
 
