@@ -250,6 +250,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | :--------------------: |
 | The following items will never be cleansed: 
 Repels 
+Pokeballs
 Heals (PP, HP, status)
 Battle items you have unlocked via Prize
 Held items you have unlocked via Prize
