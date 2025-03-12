@@ -46,6 +46,7 @@
 | **All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic:** |
 | :--------------------: |
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
+| No cancelling evolutions. Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice. |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. Note, this will not be known until it is hit!|
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
