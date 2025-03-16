@@ -240,7 +240,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 ## BUY PHASE
 | **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
-| Buy Phase can only make use of items available in PokeShops. (No Vending Machines) |
+| Buy Phase can only make use of items available in PokeMarts (No Vending Machines). You may travel freely to different city PokeMarts to purchase items, once able. |
 | Max Potions and Full Restores cannot be exchanged. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
@@ -255,6 +255,7 @@ Pokeballs
 Heals (PP, HP, status)
 Battle items you have unlocked via Prize
 Held items you have unlocked via Prize
+TMs you have unlocked via Prize (However, you will need a seperate prize to *Teach* the TM. 
 Anything you earned from the Shop phase or Prize.
 You may keep any found Roguestones (evolves all stone/item evolution pokemon).
 Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
