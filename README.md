@@ -38,7 +38,7 @@
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
-<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
+<img src="/img/roguemon-starter.png" width="300" height="240">      <img src="/img/roguemon-evo.png" width="300" height="240">
 
 ---
 
@@ -83,7 +83,7 @@
 ## BANNED MOVE/ABILITY LIST
 | **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
 | :--------------------: |
-| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
+| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) | 
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
