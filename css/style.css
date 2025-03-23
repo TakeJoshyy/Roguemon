@@ -1,12 +1,12 @@
 @font-face {
 	font-family: Arvo;
-	src: url(/fonts/Arvo-Regular.ttf) format('truetype');
+	src: url(../fonts/Arvo-Regular.ttf) format('truetype');
 }
 
 @font-face {
 	font-family: Arvo;
 	font-weight: bold;
-	src: url(/fonts/Arvo-Bold.ttf) format('truetype');
+	src: url(../fonts/Arvo-Bold.ttf) format('truetype');
 }
 
 @keyframes colorcycle {
@@ -207,11 +207,15 @@ section#links{
 
  #theme {
 	position: absolute;
-	top: 1em;
+	top: 6em;
 	right: 1em;
 	width: 3.5em;
     height: 3em;
     background: url(../img/gear-icon.png) no-repeat center;
 	background-size: contain;
     border: none;
+}
+
+#theme:hover {
+	transform: scale(2);
 }
