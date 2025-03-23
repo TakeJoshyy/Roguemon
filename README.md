@@ -26,8 +26,8 @@
 | There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
-<img src="https://github.com/user-attachments/assets/c4dbf1ae-adb3-4891-96a0-0f0dd4240434" width="280" height="300">
-<img src="https://github.com/user-attachments/assets/21a5c3cb-dc72-4051-9725-60fcfa1e4b7c" width="280" height="300">
+<img src="/img/roguemonHP.PNG" width="280" height="300">
+<img src="/img/curse.PNG" width="280" height="300">
 
 ---
 
@@ -92,14 +92,14 @@
 ---
 
 ## BAG SPACE CAP
-| **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
-| :----------------------------------------------------------------------------------------------------------------------------------------: |
-| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
-| Caps do not apply until you have locked in your pokemon to run.                                                                            |
-	0 badges = HP = 150 Status = 3
-	1 badge = HP = 200, Status = 5
+| **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**    | 
+| :----------------------------------------------------------------------------------------------------------------------------------------: 	|
+| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options). |            
+| Caps do not apply until you have locked in your pokemon to run.                                                                            	|
+	0 badges = HP = 150, Status = 3
+	1 badge  = HP = 200, Status = 5
 	2 badges = HP = 300, Status = 5
-	3 badges = HP = 350 Status = 6
+	3 badges = HP = 350, Status = 6
 	4 badges = HP = 450, Status = 6
 	5 badges = HP = 500, Status = 6
 	6 badges = HP = 550, Status = 7
