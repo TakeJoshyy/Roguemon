@@ -9,7 +9,7 @@
 | **RogueMon was created by [Crozwords](https://www.twitch.tv/crozwords)** |
 | :--------------------: |
 | Join the RogueMON community and find necessary resources to play: https://discord.gg/C88N88yfCP |
-| If you would like to contribute to the continued coding development (new curses, prizes, QOL etc.) and upkeep of the roguemon.gg domain, you can use the link below. This is purely optional, I'm just trying to mitigate some of the ongoing costs.  | 
+| If you would like to contribute to the continued coding development (new curses, prizes, QOL etc.),  upkeep of the roguemon.gg domain, and future expansion into other games, you can use the link below. This is purely optional, I'm just trying to mitigate some of the ongoing costs.  | 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H71CAGIA)
 ---
 
