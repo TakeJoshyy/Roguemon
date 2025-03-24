@@ -354,7 +354,7 @@ HP Cap +100
 Status Cap +1 + Any Status Heal  + Potion
 Super Potion + Any Status Heal + Ether
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
-Temporary Item voucher: you may keep and unlock one non-healing ground item that you pick up before the next gym
+Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)
 Ground TM 
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
@@ -377,7 +377,7 @@ Super Potion + Any Status Heal + Ether
 Status Cap +1 + Any Status Heal + Potion
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
-Temporary Item Voucher - Keep one ground item before next gym (immediate decision)
+Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
 
@@ -400,7 +400,7 @@ HP Cap +50 + XAcc
 HP Cap + 50 + Elixir
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 X Factor - You can now keep and use Battle Items Freely
-| Temporary Held Item Voucher: Keep and unlock a Found non-healing ground item. Expires Next Gym. |
+| Temporary Held Item Voucher: Permanently unlock one non-revive found item before next gym (immediate decision) |
 
 ---
 
@@ -419,8 +419,8 @@ Ground Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
 Revive (limit one revive item per run)
 HP Cap +100 + Status Cap +1
 HP Cap +50 + Super Potion
-Permanent Held Item Voucher - Keep one non-healing ground item you find (immediate decision)
-| Fight one of Route 12|13|14|15 (treat as a segment) |
+Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)
+| Fight one of Route 12/13/14/15 (treat as a segment) |
 
 ---
 
@@ -433,7 +433,7 @@ HP Cap + 100 + Hyper Potion
 Any Battle items x2
 Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
-| Fight one of Route 12|13|14|15 (treat as a segment) |
+| Fight one of Route 12/13/14/15 (treat as a segment) |
 
 ---
 
