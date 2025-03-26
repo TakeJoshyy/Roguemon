@@ -243,6 +243,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | :--------------------: |
 | Buy Phase can only make use of items available in PokeMarts (No Vending Machines). You may travel freely to different city PokeMarts to purchase items, once able. |
 | Max Potions and Full Restores cannot be exchanged. |
+| Current HP total does not apply when exchanging HP heals. i.e. Hyper can always be exchanged for 200. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
 ---
