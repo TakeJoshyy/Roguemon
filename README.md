@@ -132,7 +132,7 @@ N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
-N/A | *Any* combo of Offensive Setup and any Draining moves together = banned. On their own, they're allowed. | Draining Kiss is banned
+N/A | *Any* combo of Offensive Setup and any Draining moves together in battle = banned. On their own, they're allowed. | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
 
