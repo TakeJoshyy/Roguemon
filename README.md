@@ -9,7 +9,8 @@
 | **RogueMon was created by [Crozwords](https://www.twitch.tv/crozwords)** |
 | :--------------------: |
 | Join the RogueMON community and find necessary resources to play: https://discord.gg/C88N88yfCP |
-
+| If you would like to contribute to the continued development (new curses, prizes, QOL etc.),  upkeep of the roguemon.gg domain, and future expansion into other games, you can use the link below. This is purely optional, I'm just trying to mitigate some of the ongoing costs.  | 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H71CAGIA)
 ---
 
 # <h1 align="center">What is RogueMon?</h1>
@@ -26,8 +27,8 @@
 | There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
-<img src="/img/roguemonHP.PNG" width="280" height="300">
-<img src="/img/curse.PNG" width="280" height="300">
+<img src="https://github.com/user-attachments/assets/c4dbf1ae-adb3-4891-96a0-0f0dd4240434" width="280" height="300">
+<img src="https://github.com/user-attachments/assets/21a5c3cb-dc72-4051-9725-60fcfa1e4b7c" width="280" height="300">
 
 ---
 
@@ -38,7 +39,7 @@
 | Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
-<img src="/img/roguemon-starter.png" width="300" height="240">      <img src="/img/roguemon-evo.png" width="300" height="240">
+<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
 ---
 
@@ -66,7 +67,6 @@
 ## WILD POKEMON
 | *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the Roguemon-randomizer.* |
 | :--------------------: |
-| NOTE: Found in Resources channel in the Roguemon Discord |
 | Pokemon in the wild have a 100% catch rate. |
 | Wild Pokemon have a 50% increase to their level in all ascensions. |
 | NOTE: Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt. |
@@ -77,13 +77,14 @@
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
+| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Croz. |
 
 ---
 
 ## BANNED MOVE/ABILITY LIST
 | **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
 | :--------------------: |
-| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) | 
+| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
@@ -92,14 +93,14 @@
 ---
 
 ## BAG SPACE CAP
-| **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**    | 
-| :----------------------------------------------------------------------------------------------------------------------------------------: 	|
-| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options). |            
-| Caps do not apply until you have locked in your pokemon to run.                                                                            	|
-	0 badges = HP = 150, Status = 3
-	1 badge  = HP = 200, Status = 5
+| **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
+| Caps do not apply until you have locked in your pokemon to run.                                                                            |
+	0 badges = HP = 150 Status = 3
+	1 badge = HP = 200, Status = 5
 	2 badges = HP = 300, Status = 5
-	3 badges = HP = 350, Status = 6
+	3 badges = HP = 350 Status = 6
 	4 badges = HP = 450, Status = 6
 	5 badges = HP = 500, Status = 6
 	6 badges = HP = 550, Status = 7
@@ -131,7 +132,7 @@ N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
-N/A | Offensive Setup and any Draining moves together = banned. On their own, they're allowed. | Draining Kiss is banned
+N/A | *Any* combo of Offensive Setup and any Draining moves together in battle = banned. On their own, they're allowed. | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
 
@@ -242,6 +243,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | :--------------------: |
 | Buy Phase can only make use of items available in PokeMarts (No Vending Machines). You may travel freely to different city PokeMarts to purchase items, once able. |
 | Max Potions and Full Restores cannot be exchanged. |
+| Current HP total does not apply when exchanging HP heals. i.e. Hyper can always be exchanged for 200. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
 ---
@@ -353,7 +355,7 @@ HP Cap +100
 Status Cap +1 + Any Status Heal  + Potion
 Super Potion + Any Status Heal + Ether
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
-Temporary Item voucher: you may keep and unlock one non-healing ground item that you pick up before the next gym
+Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)
 Ground TM 
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
@@ -376,7 +378,7 @@ Super Potion + Any Status Heal + Ether
 Status Cap +1 + Any Status Heal + Potion
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
-Temporary Item Voucher - Keep one ground item before next gym (immediate decision)
+Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
 
@@ -399,7 +401,7 @@ HP Cap +50 + XAcc
 HP Cap + 50 + Elixir
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 X Factor - You can now keep and use Battle Items Freely
-| Temporary Held Item Voucher: Keep and unlock a Found non-healing ground item. Expires Next Gym. |
+| Temporary Held Item Voucher: Permanently unlock one non-revive found item before next gym (immediate decision) |
 
 ---
 
@@ -418,8 +420,8 @@ Ground Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
 Revive (limit one revive item per run)
 HP Cap +100 + Status Cap +1
 HP Cap +50 + Super Potion
-Permanent Held Item Voucher - Keep one non-healing ground item you find (immediate decision)
-| Fight one of Route 12|13|14|15 (treat as a segment) |
+Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)
+| Fight one of Route 12/13/14/15 (treat as a segment) |
 
 ---
 
@@ -432,7 +434,7 @@ HP Cap + 100 + Hyper Potion
 Any Battle items x2
 Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
-| Fight one of Route 12|13|14|15 (treat as a segment) |
+| Fight one of Route 12/13/14/15 (treat as a segment) |
 
 ---
 
