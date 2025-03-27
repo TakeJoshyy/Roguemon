@@ -9,11 +9,6 @@
 	src: url(../fonts/Arvo-Bold.ttf) format('truetype');
 }
 
-@keyframes colorcycle {
-	from { background-color: white; }
-	to { background-color:  rgb(194, 30, 30); }
-}
-
 html,
 a,
 hgroup {
@@ -218,4 +213,36 @@ section#links{
 
 #theme:hover {
 	transform: scale(2);
+}
+
+.rulesSections {
+	width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.rulesSections-group {
+	margin-bottom: 5px;
+}
+
+.rulesSections-group-header {
+	background-color: grey;
+    padding: 15px;
+    cursor: pointer;
+    margin: 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.rulesSections-group-header:hover {
+	background-color: #e0e0e0;
+}
+
+.rulesSections-content {
+    display: none;
+    padding: 10px;
+}
+
+.rulesSections-content section {
+    margin-bottom: 15px;
 }

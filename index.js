@@ -1,7 +1,6 @@
 function $(id) { return document.getElementById(id) }
 
 (function() {
-    
     if (!location.hash) {
         location.hash = '#home';
     }
@@ -40,6 +39,22 @@ function $(id) { return document.getElementById(id) }
         }
     };
 
-    
+    document.addEventListener('DOMContentLoaded', function() {
+        const headers = document.querySelectorAll('.rulesSections-group-header');
+        
+        headers.forEach(header => {
+            header.addEventListener('click', function() {
+                const content = this.nextElementSibling;
+                const isOpen = content.style.display === 'block';
+                
+                document.querySelectorAll('.rulesSections-content').forEach(item => {
+                    item.style.display = 'none';
+                });
+                
+                content.style.display = isOpen ? 'none' : 'block';
+            });
+        });
+    });
+
     window.onhashchange();
 })();

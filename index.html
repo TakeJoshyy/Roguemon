@@ -23,7 +23,7 @@
     <a href="https://github.com/something-smart/Roguemon-IronmonExtension/releases" title="Click for download" class="download">Latest <strong>Tracker Version</strong> here!</a>
     <button id="theme"></button>
 
-    <p if="brief">
+    <p id="brief">
     <strong>Roguemon</strong> was created by <a href="https://www.twitch.tv/crozwords">Crozwords</a> for the community, which you can join in the <a href="https://discord.gg/C88N88yfCP">Discord!</a>
     </p>
 
@@ -32,12 +32,11 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#rules">Rules</a></li>
             <li><a href="#Ascensions">Ascensions</a></li>
-            <li><a href="#Guidance">Guidance</a></li>
             <li><a href="#faq">FAQ</a></li>
         </ul>
     </nav>
 
-    <div id="#home" class="section-container">
+    <div id="home" class="section-container">
         <section id="features">
             <h1>Features</h1>
             <ul class="features">
@@ -92,185 +91,194 @@
             <p>Q : I'm struggling with getting RogueMon running</p>
             <p>A : The discord is currently the best place to get any help, it has many resources and you are free to ask questions</p>
             <br>
-            <p>Q : Where is the Move Relearner?</p>
+            <p>Q : Where is the Move Re-learner?</p>
             <P>A : It's in Celadon City, in the house next to the Pokemon Center. This can not be pre-scouted</P>
             <br>
             <p>Q : What does evolution "BST/10" mean?</p>
-            <p>A : The bst of whatever you evo into /10. So if you are a minior that evos into a galarian articuno(580bst). Your minior will evo at level 58 for 580/10.</p>
+            <p>A : The bst of whatever you evo into /10. So if you are a minor that evos into a galarian articuno(580bst). Your minor will evo at level 58 for 580/10.</p>
         </section>
     </section>
             
     <section id="rules" class="page">
         <h1>-- RULES --</h1>
 
-        <section>
-            <p>It is recommended to read Guidance after rules</p>
-        </section>
+        <div class="rulesSections">
+            <section>
+                <h1>Before you start playing</h1>
+                <p>In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options)</p>
+                <p>In the Discord there are extended guides with full details and pictures of each route</p>
+            </section>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Start</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Lab</h1>
+                    <p>You can choose your starter in the lab.</p>
+                    <p>You can only keep ONE of the prizes from each prize</p>
+                </section>
 
-        <section>
-            <h1>Lab</h1>
-            <p>You can choose your starter in the lab.</p>
-            <p>You can only keep ONE of the prizes from each prize</p>
-        </section>
+                <section>
+                    <h1>Picking Your Pokemon</h1>
+                    <p>You may swap your lead pokemon at any time during this phase.</p>
+                    <p>After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run.</p>
+                    <p>All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. </p>
+                    <p>Wild Pokemon have a 50% increase to their level in all ascensions.</p>
+                </section>
 
-        <section>
-            <h1>Starting Your Attempt</h1>
-            <p>You may catch 5 pokemon, and then choose ONE to attempt the challenge</p>
-            <p>You may swap your lead pokemon at any time during this phase.</p>
-            <p>Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground.</p>
-            <p>You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends.</p>
-            <p><strong>Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt.</strong></p>
-            <p><strong>If you do happen to defeat a wild, you cannot run the pokemon that gained experience.</strong></p>
-            <p>If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue.</p>
+                <section>
+                    <h1>Viridian Forest</h1>
+                    <p>You can catch the same pokemon 5 times if you choose.</p>
+                    <p>You receive 4 automatically if you are using the Roguemon Tracker extension.</p>
+                    <p>Get the 5th potion from the Mart employee on Route 1.</p>
+                </section>
+
+                <section>
+                    <h1>Starting Your Attempt</h1>
+                    <p>You may catch 5 pokemon, and then choose ONE to attempt the challenge</p>
+                    <p>You may swap your lead pokemon at any time during this phase.</p>
+                    <p>Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground.</p>
+                    <p>You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends.</p>
+                    <p><strong>Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt.</strong></p>
+                    <p><strong>If you do happen to defeat a wild, you cannot run the pokemon that gained experience.</strong></p>
+                    <p>If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue.</p>  
+                </section>
+                </div>
+            </div>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">General Rules</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Wild Mons</h1>
+                    <p>Roguestones you find randomly can be kept and used at any time after gym 1.</p>
+                    <p>You can catch and release any wild pokemon you wish later on in the run.</p>
+                    <p></p>
+                    <p>Wild pokemon may not be fought for experience unless allowed by a Prize.</p>
+                </section>
+                <section>
+                    <h1>Game Progression</h1>
+                    <p>You are to follow the tracker routes</p>
+                    <p>You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience.</p>
+                    <p>Gym TMs can be taught without restriction, but you must decide to teach immediately.</p>
+                    <p>Teach one of the fighting bro’s TMs (or neither) after Mt. Moon</p>
+                    <p>You are limited to ONE HM friend, and owning ONE revive item per run.</p>
+                    <p>How to use a legal Revive: send your HM friend in, use the revive, then use moves with the HM friend until it faints.</p>
+                </section>
+                <section>
+                    <h1>General Banned Moves And Abilities</h1>
+                    <p><strong>Passive Healing moves or HP manipulation moves are banned. See below</strong></p>
+                    <div class="Base-Banned-Abilities">
+                        <p>Pain Split | Leech Seed | Leftovers | Black Sludge + Poison Type | Rain Dance + Rain Dish </p>
+                    </div>
+                    <p>Sketch is allowed but you cannot use Sketch on wild pokemon</p>
+                    <p>Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon</p>
+                    <p>Spore is banned.</p>
+                    <p><strong>Check Ascension Level Specific Rules</strong></p>
+                </section>
+                <section>
+                    <h1>Not Specifically Banned In A1</h1>
+                    <p><strong>Damaging healing moves like below and items are allowed</strong></p>
+                    <div class="Allowed-Abilities">
+                        <p>Draining Kiss | Giga Drain</p>
+                        <p><strong>Check Ascension Level Specific Rules</strong></p>
+                    </div>
+                </section>
+                <section>
+                    <h1>Shop / Items</h1>
+                    <p>No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS!</p>
+                    <p>ALL step items are banned.</p>
+                    <p>Legal items are limited to visible, hidden, and NPC gift.</p>
+                    <p>Healing Items if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap</p>
+                    <p>Medicine items must be used immediately or trashed</p>
+                    <p>There is NO step farming allowed.</p>
+                    <p>Healing HP, Status, and PP using items is allowed outside of battle.</p>
+                    <p>Revives are only legal through prizes, can be held until cleansing phase</p>
+                </section>
+                <section>
+                    <h1>Shop / Items Guidance</h1>
+                    <p>Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension.</p>
+                    <p>Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether)</p>
+                    <p>Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up, Calcium)</p>
+                    <p>Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb)</p>
+                    <p>Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens)</p>
+                    <p>If you get one of the medicine items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding and before fighting the first trainer.</p>
+                </section>
+                <section>
+                    <h1>Bag Space</h1>
+                    <p>There is a base bag space cap for HP heals and Status Heals during the run.</p>
+                    <p>It can increase with prizes after beating Milestones.</p>
+                    <p>Caps do not apply until you have locked in your pokemon to run.</p>
+                    <div id="cap-badges">
+                        <p> 0 badges | HP = 150, Status = 3</p>
+                        <p> 1 badge  | HP = 200, Status = 5</p>
+                        <p> 2 badges | HP = 300, Status = 5</p>
+                        <p> 3 badges | HP = 350, Status = 6</p>
+                        <p> 4 badges | HP = 450, Status = 6</p>
+                        <p> 5 badges | HP = 500, Status = 6</p>
+                        <p> 6 badges | HP = 550, Status = 7</p>
+                        <p> 7 badges | HP = 600, Status = 7</p>
+                        <p> 8 badges | HP = 700, Status = 7</p>
+                    </div>
+                </section>
+                </div>
+            </div>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Phases</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Buy Phase</h1>
+                    <p>Buy Phase you may exchange your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag.</p>
+                    <p>Max Potions and Full Restores cannot be exchanged.</p>
+                    <p>You may exchange your current status heals 1 for 1.</p>
+                    <p>You may also exchange any 3 status heals for a Full Heal or vice versa.</p>
+                </section>
+                <section>
+                    <h1>Cleansing Phase</h1>
+                    <p>You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize.</p>
+                    <p>Any item you have claimed from a prize is owned, and not cleansed.</p>
+                    <br>
+                    <p>Items below are exempt from cleanse</p>
+                    <p>Repels | Pokeballs | Heals | Roguestones | Poke Dolls | Smoke Balls | Fluffy Tails</p>
+                    <p>Anything you earned from the Shop phase</p>
+                </section>
+                <section>
+                    <h1>Curses</h1>
+                    <p>Curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.</p>
+                    <p>You will be able to see which segments are cursed, but not know the specific curse until you start the segment.</p>
+                    <p>Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed.</p>
+                </section>
+                </div>
+            </div>
             
-        </section>
-
-        <section>
-            <h1>Wild Mons</h1>
-            <p>Roguestones you find randomly can be kept and used at any time after gym 1.</p>
-            <p>You can catch and release any wild pokemon you wish later on in the run.</p>
-            <p></p>
-            <p>Wild pokemon may not be fought for experience unless allowed by a Prize.</p>
-        </section>
-        <section>
-            <h1>Game Progression</h1>
-            <p>You are to follow the tracker routes</p>
-            <p>You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience.</p>
-            <p>Gym TMs can be taught without restriction, but you must decide to teach immediately.</p>
-            <p>Teach one of the fighting bro’s TMs (or neither) after Mt. Moon</p>
-            <p>You are limited to ONE HM friend, and owning ONE revive item per run.</p>
-            <p>How to use a legal Revive: send your HM friend in, use the revive, then use moves with the HM friend until it faints.</p>
-        </section>
-        <section>
-            <h1>General Banned Moves And Abilities</h1>
-            <p><strong>Passive Healing moves or HP manipulation moves are banned. See below</strong></p>
-            <div class="Base-Banned-Abilities">
-                <p>Pain Split | Leech Seed | Leftovers | Black Sludge + Poison Type | Rain Dance + Rain Dish </p>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Useful information</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Trainer Info</h1>
+                    <p>Before  level 20  - all pokemon are below 500BST. </p>
+                    <p>Between level 20 and level 29 - all pokemon will be at least 320 BST.</p>
+                    <p>Before  level 30 - all pokemon will not be fully evolved.</p>
+                    <p>After   level 30 - all pokemon will be fully evolved but below 570 BST, Shedinja can now appear.</p>
+                    <p>Before  level 40 - all pokemon will not be legendary/mythic/mega/etc. </p>
+                    <p>Boss trainers’ aces will have randomized sensible items.</p>
+                </section>
+                <section>
+                    <h1>Prize Rolls</h1>
+                    <p>This is handled fully by the Roguemon tracker extension</p>
+                    <p>You are to keep only one prize unless specifically stated overwise</p>
+                    <br>
+                    <p>Prize One   - Roll upon exiting the lab</p>
+                    <p>Prize Two   - Roll After Gym 1: Brock</p>
+                    <p>Prize Three - Roll After Mt. Moon</p>
+                    <p>Prize Four  - Roll After Gym 2: Misty</p>
+                    <p>Prize Five  - Roll after Gym 3: Lt. Surge</p>
+                    <p>Prize Six   - Roll after Gym 4 Erika</p>
+                    <p>Prize Seven - Roll after Gym 5 Koga, full clear Silph Co, after Gym 7 Blaine, after Gym 8 Giovanni</p>
+                    <p>Prize Eight - Roll after full clear Victory Road</p>
+                </section>
+                </div>
             </div>
-            <p>Sketch is allowed but you cannot use Sketch on wild pokemon</p>
-            <p>Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon</p>
-            <p>Spore is banned.</p>
-            <p><strong>Check Ascension Level Specific Rules</strong></p>
-        </section>
-        <section>
-            <h1>Not Specifically Banned In A1</h1>
-            <p><strong>Damaging healing moves like below and items are allowed</strong></p>
-            <div class="Allowed-Abilities">
-                <p>Draining Kiss | Giga Drain</p>
-                <p><strong>Check Ascension Level Specific Rules</strong></p>
-            </div>
-        </section>
-        <section>
-            <h1>Shop / Items</h1>
-            <p>No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS!</p>
-            <p>ALL step items are banned.</p>
-            <p>Legal items are limited to visible, hidden, and NPC gift.</p>
-            <p>Healing Items if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap</p>
-            <p>Medicine items must be used immediately or trashed</p>
-            <p>There is NO step farming allowed.</p>
-            <p>Healing HP, Status, and PP using items is allowed outside of battle.</p>
-            <p>Revives are only legal through prizes, can be held until cleansing phase</p>
-        </section>
-        <section>
-            <h1>Bag Space</h1>
-            <p>There is a base bag space cap for HP heals and Status Heals during the run.</p>
-            <p>It can increase with prizes after beating Milestones.</p>
-            <p>Caps do not apply until you have locked in your pokemon to run.</p>
-            <div id="cap-badges">
-                <p> 0 badges | HP = 150, Status = 3</p>
-                <p> 1 badge  | HP = 200, Status = 5</p>
-                <p> 2 badges | HP = 300, Status = 5</p>
-                <p> 3 badges | HP = 350, Status = 6</p>
-                <p> 4 badges | HP = 450, Status = 6</p>
-                <p> 5 badges | HP = 500, Status = 6</p>
-                <p> 6 badges | HP = 550, Status = 7</p>
-                <p> 7 badges | HP = 600, Status = 7</p>
-                <p> 8 badges | HP = 700, Status = 7</p>
-            </div>
-        </section>
-        <section>
-            <h1>Buy Phase</h1>
-            <p>Buy Phase you may exchange your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag.</p>
-            <p>Max Potions and Full Restores cannot be exchanged.</p>
-            <p>You may exchange your current status heals 1 for 1.</p>
-            <p>You may also exchange any 3 status heals for a Full Heal or vice versa.</p>
-        </section>
-        <section>
-            <h1>Cleansing Phase</h1>
-            <p>You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize.</p>
-            <p>Any item you have claimed from a prize is owned, and not cleansed.</p>
-            <br>
-            <p>Items below are exempt from cleanse</p>
-            <p>Repels | Pokeballs | Heals | Roguestones | Poke Dolls | Smoke Balls | Fluffy Tails</p>
-            <p>Anything you earned from the Shop phase</p>
-        </section>
+        </div>
     </section>
-    <section id="Guidance" class="page">
-        <h1>-- Things To Take Note Of --</h1>
-
-        <section>
-            <h1>Before you start playing</h1>
-            <p>In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options)</p>
-            <p>In the Discord there are extended guides with full details and pictures of each route</p>
-        </section>
-
-        <section>
-            <h1>Viridian Forest</h1>
-            <p>You can catch the same pokemon 5 times if you choose.</p>
-            <p>You receive 4 automatically if you are using the Roguemon Tracker extension.</p>
-            <p>Get the 5th potion from the Mart employee on Route 1.</p>
-        </section>
-        <section>
-            <h1>Picking Your Pokemon</h1>
-            <p>You may swap your lead pokemon at any time during this phase.</p>
-            <p>After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run.</p>
-            <p>All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. </p>
-            <p>Wild Pokemon have a 50% increase to their level in all ascensions.</p>
-        </section>
-        <section>
-            <h1>Shop / Items</h1>
-            <p>Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension.</p>
-            <p>Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether)</p>
-            <p>Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up, Calcium)</p>
-            <p>Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb)</p>
-            <p>Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens)</p>
-            <p>If you get one of the medicine items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding and before fighting the first trainer.</p>
-        </section>
-        
-        <section>
-            <h1>Trainer Info</h1>
-            <p>Before  level 20  - all pokemon are below 500BST. </p>
-            <p>Between level 20 and level 29 - all pokemon will be at least 320 BST.</p>
-            <p>Before  level 30 - all pokemon will not be fully evolved.</p>
-            <p>After   level 30 - all pokemon will be fully evolved but below 570 BST, Shedinja can now appear.</p>
-            <p>Before  level 40 - all pokemon will not be legendary/mythic/mega/etc. </p>
-            <p>Boss trainers’ aces will have randomized sensible items.</p>
-        </section>
-
-        <section>
-            <h1>Curses</h1>
-            <p>Curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.</p>
-            <p>You will be able to see which segments are cursed, but not know the specific curse until you start the segment.</p>
-            <p>Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed.</p>
-        </section>
-
-        <section>
-            <h1>Prize Rolls</h1>
-            <p>This is handled fully by the Roguemon tracker extension</p>
-            <p>You are to keep only one prize unless specifically stated overwise</p>
-            <br>
-            <p>Prize One   - Roll upon exiting the lab</p>
-            <p>Prize Two   - Roll After Gym 1: Brock</p>
-            <p>Prize Three - Roll After Mt. Moon</p>
-            <p>Prize Four  - Roll After Gym 2: Misty</p>
-            <p>Prize Five  - Roll after Gym 3: Lt. Surge</p>
-            <p>Prize Six   - Roll after Gym 4 Erika</p>
-            <p>Prize Seven - Roll after Gym 5 Koga, full clear Silph Co, after Gym 7 Blaine, after Gym 8 Giovanni</p>
-            <p>Prize Eight - Roll after full clear Victory Road</p>
-        </section>
-
-    </section>
-
     <section id="Ascensions" class="page">
         <h1>What are Ascensions?</h1>
         <p>Ascensions are a mechanic of this game mode which represents the difficulty level, each increase ups the challenge. The aim is to beat the game with all pokemon types then move up to the next ascension tier where the difficulty increase.</p>
