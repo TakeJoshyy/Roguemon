@@ -77,7 +77,7 @@ body {
 }
 
 a {
-	color: blue;
+	color: white;
 	font-weight: bold;
 }
 
@@ -245,4 +245,9 @@ section#links{
 
 .rulesSections-content section {
     margin-bottom: 15px;
+}
+
+.img {
+	max-width: 75%;
+	height: auto;
 }
