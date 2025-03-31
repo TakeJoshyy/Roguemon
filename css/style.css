@@ -31,7 +31,7 @@ hgroup {
 		margin: -.5em 0 0 3em;
 		font-weight: normal;
 		font-size: 160%;
-		color: var(--text-color,aqua);
+		color: var(--text-color,white);
 	}
 
 section > h1 {
@@ -73,7 +73,7 @@ body {
 	text-shadow: 0 1px black;
 	hyphens:auto;
 	box-shadow: -8px 0 15px -8px rgba(0, 0, 0, 0.5);
-    color: var(--text-color,aqua);
+    color: var(--text-color,white);
 }
 
 a {
