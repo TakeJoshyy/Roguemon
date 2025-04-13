@@ -138,14 +138,6 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 
 ---
 
-# TMs
-| **All TMs have full compatibility, however...** |
-| :--------------------: |
-| Gym TMs can be taught without restriction, but you must decide to teach immediately. |
-| Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
-
----
-
 <h1 align="center">ITEMS</h1>
 
 ## GENERAL ITEM RULES
@@ -194,6 +186,14 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 | If the consumable replaces another consumable, the one being unequipped must be trashed/used. |
 | If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped. |
 | Held berries do not count against your HP/status bag limit, but berries in your bag do. |
+
+---
+
+## TMs
+| **All TMs have full compatibility, however...** |
+| :--------------------: |
+| Gym TMs can be taught without restriction, but you must decide to teach immediately. |
+| Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
 
 ---
 
