@@ -197,8 +197,6 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 
 ---
 
-<<<<<<< Updated upstream
-=======
 ## TMs
 | **All TMs have full compatibility, however...** |
 | :--------------------: |
