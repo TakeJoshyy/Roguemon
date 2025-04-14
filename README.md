@@ -138,7 +138,6 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 
 ---
 
-<<<<<<< Updated upstream
 # TMs
 | **All TMs have full compatibility, however...** |
 | :--------------------: |
@@ -147,8 +146,6 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 
 ---
 
-=======
->>>>>>> Stashed changes
 <h1 align="center">ITEMS</h1>
 
 ## GENERAL ITEM RULES
@@ -210,7 +207,6 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 
 ---
 
->>>>>>> Stashed changes
 ## OTHER ITEMS
 | **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
