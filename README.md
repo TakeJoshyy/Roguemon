@@ -128,9 +128,9 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. (Forest Nurse is QOL and not permitted for mid-segment heal) | Huge/Pure Power is banned. | Huge/Pure Power is banned.
+1 random segment will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together. | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together.
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
-N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
 N/A | *Any* combo of Offensive Setup and any Draining moves together in battle = banned. On their own, they're allowed. | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
@@ -268,13 +268,13 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
 | **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
 | :--------------------: |
-| Currently planned curses: |
-Forgetfulness - Must pick up and teach a TM on this route. (You must teach the first TM you pick up.)
+| Current curses: |
+Forgetfulness - After the first fight in this segment, your bottom-most move is changed to a random move. (You may still switch around your move order at any time.)
 Claustrophobia - If this segment is not full cleared, permanently lose 50 HP Cap.
 Downsizing - If this segment is not full cleared, prize spins permanently have 1 fewer option.
-Negative Energy - You have the Torment effect (you cannot use the same move twice in a row).
-Bad Connection - You may not use healing items from your bag in battle.
-Headwind - Start each battle at -1 Speed.
+Tormented Soul - You have the Torment effect (you cannot use the same move twice in a row).
+Kaizo Curse - You may not use healing items from your bag in battle.
+Headwind - Start each battle at -2 Speed.
 Sharp Rocks - All enemy pokemon get the Focus Energy effect (+2 critical hit rate).
 High Pressure - Lose 50% PP on all moves at the start of the segment.
 Heavy Fog - All combatants have -1 Accuracy (and it cannot be increased above -1).
@@ -286,8 +286,14 @@ Narcolepsy - Your pokemon has a 30% chance to fall asleep after each fight.
 Clean Air - Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops).
 Clouded Instincts - Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.)
 Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
-Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types). You can see your current typing in the tracker.
-| No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
+Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types, you cannot get a type that gives STAB on any of your moves). You can see your current typing in the tracker.
+No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.)
+Relay Race - When you knock out an enemy pokemon, the next one comes out with the same stat stages. All enemy pokemon also get +1 Speed in addition to that.
+Resourceful - When a move reaches 0 PP, it is randomly changed to a different move.
+Safety Zone - If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag.
+Live Audience - When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns.
+Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat.
+| Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.|
 
 ---
 
@@ -302,12 +308,13 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 Potion x2 + Antidote
 Parlyz Heal x2 + Antidote
 HP Cap +50
-Status Cap +1 + Potion + Status Choice
-Fight up to 5 random wilds then PC heal  (cannot PC in between)
+Status Cap +1 + Any Status Heal + Potion
+Fight up to 5 wilds in Viridian Forest then PC heal  (cannot PC in between)
 Potion + fight 1st wild you see in Routes 1 | 2 | 22 (cannot PC in between)
 Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it
 Potion + Reroll Chip - 1 time use reroll rewards
-| Berry Juice |
+Berry Juice
+| Clairvoyance (A2/A3 only) - learn all future curses |
 
 ---
 
@@ -315,31 +322,39 @@ Potion + Reroll Chip - 1 time use reroll rewards
 | **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
 | :--------------------: | 
 | Potion x2 + Ether |
-Burn Heal + Awakening + Antidote + Parlyz Heal
+Full Heal + Any Status Heal
 Potion + Reroll Chip
 Potion + Ether + Status Choice
 Potionx2 + Any Status Heal
 Potion + Any Status Heal x2
 HP Cap +100
 Status Item Cap +1 + Any Status Heal + Potion
-Duplicator - Purchase duplicate of HP/status item found (immediate choice and must be shop avail.)
+Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
 Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
 Temporary TM Voucher - Teach ground TM found before the next badge (immediate choice)
 Potion x3
-Potion Investment + Potion - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
+Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase
 Nature Mint - Change your pokemon’s nature to one of your choice.
-Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
+PP Up + Potion
+Any Vitamin x2 + Potion
+Any Vitamin + Potion x2
+PP Up + Ether
+Choose 2 - Choose 2 prizes from the Misty prize roll.
+Potion + Clairvoyance (A2/A3 only) - learn all future curses
+| Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
 
 ---
 
 ## MT. MOON PRIZE
 | **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
 | :--------------------: | 
-| Teach one of the fighting bro’s TMs (or neither) |
+| Teach one of the fighting bros' tutor moves (or neither) |
 Super Potion
 Elixir
-| Rare Candy |
+Rare Candy
+| +25 HP Cap|
 
 ---
 
@@ -347,7 +362,7 @@ Elixir
 | **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
 | :--------------------: | 
 | Super Potion x2 |
-Antidote + Parlyz Heal + Awakening + Burn Heal
+Full Heal + Any Status Heal
 Potion x3 + Any Status Heal
 Super Potion + Any Status Heal x2
 Temporary Held Item - Keep and Hold an item from bag for 2 gym badges
@@ -356,12 +371,22 @@ Status Cap +1 + Any Status Heal  + Potion
 Super Potion + Any Status Heal + Ether
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)
-Ground TM 
+1 TM Found OR Given in bag 
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
 Nature Mint - Change your pokemon’s nature to one of your choice.
-Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+HP Cap +50 & Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. 
+Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
+Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
+Potion + Reroll Chip - 1 time use reroll rewards
+PP Up + Max Ether
+Any Vitamin x2 + Super Potion
+Any Vitamin x3
+Potion + Clairvoyance (A2/A3 only) - learn all future curses
+Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
+Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type.
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -372,15 +397,24 @@ Ability Capsule - Change your pokemon’s ability to its other slot. You get to 
 Super Potion x3
 Super Potionx2 + Any Status Heal 
 HP Cap +100
-HP Cap + 50 + Status Choice
+HP Cap + 50 + Any Status Heal
 HP Cap + 50 + Super Potion
 Super Potion + Any Status Heal + Ether
 Status Cap +1 + Any Status Heal + Potion
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
-Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+Candy Jar - You may now save PP Up/PP Max/Rare Candy for anytime use
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
+X Speed + Super Potion
+X Defend + Super Potion x2
+Guard Spec. + Dire Hit + Ether
+HP Cap +50 & Rare Candy
+Any Vitamin x3
+Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
+Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
+Regenerator - regain 3% of your max HP after every fight
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -389,19 +423,23 @@ Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 | :--------------------: | 
 | 1 TM from the Department Store (cannot pre-scout) |
 Hyper Potion + Move Tutor 3F (cannot pre-scout)
-Hyper Potion + 1 Vitamin
+Hyper Potion + Any Vitamin
 Full Heal x2 + Super Potion
 Super Potion x2 + Full Heal
-Any Battle item x2
+Any Battle Item x2
 Move Tutor 3F, then + PP Max (cannot pre-scout)
-Super Potion  + Any Battle item
-Ground Item - Keep/Use any current item in bag before cleanse
+Super Potion + Any Battle item
+Found Item - Keep/Use any current item in bag before cleanse
 HP Cap +100
-HP Cap +50 + XAcc
+HP Cap +50 + X Accuracy
 HP Cap + 50 + Elixir
-Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
-X Factor - You can now keep and use Battle Items Freely
-| Temporary Held Item Voucher: Permanently unlock one non-revive found item before next gym (immediate decision) |
+Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap
+Temporary Held Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision) 
+TM Voucher - Teach 1 Ground in the future (immediate decision)
+Rare Candy x2
+Regenerator - regain 3% of your max HP after every fight
+Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -415,13 +453,17 @@ Hyper Potion + Elixir
 Any Battle Item x2 + Super Potion
 Super Potion x2 + Any Battle Item
 Super Potion + Full Heal + Elixir
-Ground Item + Super Potion - Keep any “non-reviving” item in bag before cleanse
-Ground Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
-Revive (limit one revive item per run)
+Found Item + Super Potion - Keep any “non-reviving” item in bag before cleanse
+Found Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
+Revive (limit one revive item per run) (Silph Co & Giovanni ONLY)
 HP Cap +100 + Status Cap +1
 HP Cap +50 + Super Potion
 Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)
-| Fight one of Route 12/13/14/15 (treat as a segment) |
+Fight Route 12/13 or Route 14/15 (treat as a single segment) 
+HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll)
+HP Cap +150
+Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =)
+| X Factor - You can now keep and use Battle Items freely |
 
 ---
 
@@ -429,12 +471,14 @@ Permanent Held Item Voucher - Permanently unlock one non-revive found item found
 | **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
 | :--------------------: | 
 | Full Restore |
-1 found/given TM OR relearn one move (in Celadon) + Big Mushroom
-HP Cap + 100 + Hyper Potion
-Any Battle items x2
+Max Potion + Full Heal
+Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes)
+HP Cap +100 + Hyper Potion
+Any Battle Item x2
 Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
-| Fight one of Route 12/13/14/15 (treat as a segment) |
+Fight Route 12/13 or Route 14/15 (treat as a single segment)
+| Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 
 ---
 
