@@ -82,13 +82,14 @@
 ---
 
 ## BANNED MOVE/ABILITY LIST
-| **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
+| **All moves and items that can heal the user's HP or status without dealing direct damage are banned-- this includes simple healing moves (Moonlight, Recover, etc.), passive effects (Ingrain, Leech Seed, Rain Dance if the user has Rain Dish), other manipulation of the user's HP (Pain Split), and status healing (Aromatherapy, Heal Bell, Refresh). Leftovers is banned on all ascensions. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (with some limitations based on Ascension level).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
 | You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
-| Any move/ability combo that guarantees OHKO is banned. |
+| Assist is banned in all ascensions. |
+| If playing in Generation 4+, No Guard + OHKO is banned. |
 
 ---
 
@@ -132,9 +133,11 @@ Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of p
 N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together. | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together.
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is banned.
-N/A | *Any* combo of Passive Offensive Setup moves (+ATK or +SPA), Shell Bell, and Draining moves together in battle = banned. | Draining Kiss is banned
+N/A | *Any* combo of Passive Offensive Setup moves (+ATK or +SPA), Shell Bell, and Draining moves together in battle = banned. You may have multiple banned elements so long as you do not use them both in the same fight. | Draining Kiss is banned
 N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
 N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
+
+When you start a new ascension, make sure to adjust your options to the appropriate settings in the tracker (Extensions -> RoguemonTracker -> Options).
 
 ---
 
@@ -146,7 +149,7 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 | Legal items are limited to visible, hidden, and NPC gift. |
 | ALL step items are banned. |
 | No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS! |
-| No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
+| No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat). |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
 
 ---
@@ -201,7 +204,11 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 | **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you get a prize. |
-> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1.
+> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
+
+---
+
+> Note: The "Found Item" prize can be used to unlock any held item, X item, flute, or TM. If you unlock a held item, it may be equipped and unequipped at will; if you unlock an X item or a flute, it may be used normally; if you unlock a TM, it may not be taught yet, but is permanently safe from being cleansed and may be taught with a "TM in bag" prize later.
 
 ---
 
@@ -234,7 +241,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | :--------------------: |
 | The Gym Leader’s ace will always be holding a sensible item. |
 | Gym Leader TM must be decided to teach at time of acquisition. |
-| Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random Prize choice. Afterwards comes *Buy Phase* and *Cleansing phase*. |
+| Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random prize choice. You may look at and decide on the prize and the TM in either order, however you must decide on both before you do anything else. Afterwards comes *Buy Phase* and *Cleansing phase*. |
 
 ---
 
@@ -273,7 +280,7 @@ Forgetfulness - After the first fight in this segment, your bottom-most move is 
 Claustrophobia - If this segment is not full cleared, permanently lose 50 HP Cap.
 Downsizing - If this segment is not full cleared, prize spins permanently have 1 fewer option.
 Tormented Soul - You have the Torment effect (you cannot use the same move twice in a row).
-Kaizo Curse - You may not use healing items from your bag in battle.
+Kaizo Curse - You may not use healing items from your bag outside of battle.
 Headwind - Start each battle at -2 Speed.
 Sharp Rocks - All enemy pokemon get the Focus Energy effect (+2 critical hit rate).
 High Pressure - Lose 50% PP on all moves at the start of the segment.
