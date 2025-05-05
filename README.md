@@ -317,7 +317,7 @@ Parlyz Heal x2 + Antidote
 HP Cap +50
 Status Cap +1 + Any Status Heal + Potion
 Fight up to 5 wilds in Viridian Forest then PC heal  (cannot PC in between)
-Potion + fight 1st wild you see in Routes 1 | 2 | 22 (cannot PC in between)
+Potion + fight 1st wild you see in Routes 1, 2, and 22 (cannot PC in between)
 Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it
 Potion + Reroll Chip - 1 time use reroll rewards
 Berry Juice
