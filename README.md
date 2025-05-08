@@ -85,7 +85,7 @@
 | **All moves and items that can heal the user's HP or status without dealing direct damage are banned-- this includes simple healing moves (Moonlight, Recover, etc.), passive effects (Ingrain, Leech Seed, Rain Dance if the user has Rain Dish), other manipulation of the user's HP (Pain Split), and status healing (Aromatherapy, Heal Bell, Refresh). Leftovers is banned on all ascensions. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (with some limitations based on Ascension level).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
-| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you fefore catch. Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
+| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you before catch. Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
 | Assist is banned in all ascensions. |
