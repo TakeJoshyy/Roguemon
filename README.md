@@ -204,7 +204,7 @@ When you start a new ascension, make sure to adjust your options to the appropri
 | **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you get a prize. |
-> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
+> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, without restrictions unless it breaks one of the core Ascension Rules. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
 
 ---
 
