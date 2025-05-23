@@ -134,7 +134,7 @@ N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is banned.
 N/A | *Any* combo of Passive Offensive Setup moves (+ATK or +SPA), Shell Bell, and Draining moves together in battle = banned. You may have multiple banned elements so long as you do not use them both in the same fight. | Draining Kiss is banned
-N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
+N/A | N/A | All Rival Fights must be completed as part of the previous segment or subsequent segment (player choice).
 N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
 
 When you start a new ascension, make sure to adjust your options to the appropriate settings in the tracker (Extensions -> RoguemonTracker -> Options).
