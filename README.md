@@ -14,7 +14,7 @@
 ---
 
 # <h1 align="center">What is RogueMon?</h1>
-| **RogueMON combines elements of Roguelikes, Ironmon Game Modes, and Randomized Challenges.** | 
+| **RogueMon makes FRLG into a full Randomized Pokemon Roguelike** | 
 | :--------------------: |
 |The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.|
 
@@ -32,11 +32,11 @@
 
 ---
 
-## IRONMON
-| **Roguelikes and Ironmon both have a “permadeath” feature.** | 
+## GAME PROGRESSION
+| **Roguelikes have a “permadeath” feature and have 'growth over time' mechanics.** | 
 | :--------------------: |
 | The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
-| Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
+| Evolutions in RogueMon will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
@@ -49,7 +49,7 @@
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
 | No cancelling evolutions. Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice. |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
-| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. Note, this will not be known until it is hit!|
+| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. *Note: this will not be known until the level is reached!*|
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
 
 ---
@@ -60,7 +60,9 @@
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
-| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
+| All lab fights will always be Lvl.6 vs Lvl.6 |
+| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the RogueMon Tracker extension. Get the 5th from the Mart employee on Route 1. |
+| The player has hte option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. |
 
 ---
 
@@ -70,7 +72,7 @@
 | Pokemon in the wild have a 100% catch rate. |
 | Wild Pokemon have a 50% increase to their level in all ascensions. |
 | NOTE: Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt. |
-| You may catch 5 pokemon, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
+| You may catch 5 pokemon if you chose to take Oak's balls, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
 | Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground. |
 | You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
 | You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
@@ -96,7 +98,7 @@
 ## BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
+| Caps are tracked automatically in the RogueMon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
 | Caps do not apply until you have locked in your pokemon to run.                                                                            |
 	0 badges = HP = 150 Status = 3
 	1 badge = HP = 200, Status = 5
@@ -147,9 +149,9 @@ When you start a new ascension, make sure to adjust your options to the appropri
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
 | Legal items are limited to visible, hidden, and NPC gift. |
-| ALL step items are banned. |
-| No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS! |
-| No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat). |
+| ALL step items are banned and have been removed from the game. |
+| No buying items in shops unless allowed from a prize. Repels only exception. **NO POKEBALLS!** |
+| No breaking and entering. You are not permitted to enter buildings not required by story / RogueMon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat). |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
 
 ---
@@ -232,7 +234,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited. |
 | Any picked up item must be followed by an immediate decision if required. |
 | Wild pokemon may not be fought for experience unless allowed by a Prize. |
-| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in Roguemon. |
+| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
 
 ---
 
@@ -248,8 +250,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 ## BUY PHASE
 | **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
-| Buy Phase can only make use of items available in PokeMarts (No Vending Machines). You may travel freely to different city PokeMarts to purchase items, once able. |
-| Max Potions and Full Restores cannot be exchanged. |
+| Max Potions and Full Restores cannot be used in Shop Phase. |
 | Current HP total does not apply when exchanging HP heals. i.e. Hyper can always be exchanged for 200. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
@@ -306,7 +307,7 @@ Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in
 
 <h1 align="center">PRIZE ROLLS</h1>
 
-> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the Roguemon Discord)
+> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the RogueMon Discord)
 
 ## PRIZE 1
 | **PRIZE 1 (Roll upon exiting the lab): 3 prizes, keep 1** |
