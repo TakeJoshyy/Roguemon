@@ -301,6 +301,7 @@ Resourceful - When a move reaches 0 PP, it is randomly changed to a different mo
 Safety Zone - If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag.
 Live Audience - When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns.
 Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat.
+TikTok - Every fight one of your moves becomes Metronome. You don't know which one. 
 | Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.|
 
 ---
