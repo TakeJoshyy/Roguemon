@@ -14,7 +14,7 @@
 ---
 
 # <h1 align="center">What is RogueMon?</h1>
-| **RogueMON combines elements of Roguelikes, Ironmon Game Modes, and Randomized Challenges.** | 
+| **RogueMon makes FRLG into a full Randomized Pokemon Roguelike** | 
 | :--------------------: |
 |The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.|
 
@@ -32,11 +32,11 @@
 
 ---
 
-## IRONMON
-| **Roguelikes and Ironmon both have a “permadeath” feature.** | 
+## GAME PROGRESSION
+| **Roguelikes have a “permadeath” feature and have 'growth over time' mechanics.** | 
 | :--------------------: |
 | The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
-| Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
+| Evolutions in RogueMon will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
 > Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
 
 <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
@@ -49,7 +49,7 @@
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
 | No cancelling evolutions. Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice. |
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
-| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. Note, this will not be known until it is hit!|
+| In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. *Note: this will not be known until the level is reached!*|
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
 
 ---
@@ -60,7 +60,9 @@
 | **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
-| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.
+| All lab fights will always be Lvl.6 vs Lvl.6 |
+| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the RogueMon Tracker extension. Get the 5th from the Mart employee on Route 1. |
+| The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. |
 
 ---
 
@@ -70,32 +72,33 @@
 | Pokemon in the wild have a 100% catch rate. |
 | Wild Pokemon have a 50% increase to their level in all ascensions. |
 | NOTE: Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt. |
-| You may catch 5 pokemon, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
+| You may catch 5 pokemon if you chose to take Oak's balls, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
 | Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground. |
 | You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
 | You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
-| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Croz. |
+| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Croz. You may fight wilds to get to level 8 outside of prizes, and are trusted to do your best to hit level 8 evenly. |
 
 ---
 
 ## BANNED MOVE/ABILITY LIST
-| **Passive Healing moves or HP manipulation moves are banned. Passive Healing Items are also banned. I.e. Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).** |
+| **All moves and items that can heal the user's HP or status without dealing direct damage are banned-- this includes simple healing moves (Moonlight, Recover, etc.), passive effects (Ingrain, Leech Seed, Rain Dance if the user has Rain Dish), other manipulation of the user's HP (Pain Split), and status healing (Aromatherapy, Heal Bell, Refresh). Leftovers is banned on all ascensions. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (with some limitations based on Ascension level).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
-| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
+| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you before catch. Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
-| Any move/ability combo that guarantees OHKO is banned. |
+| Assist is banned in all ascensions. |
+| If playing in Generation 4+, No Guard + OHKO is banned. |
 
 ---
 
 ## BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
+| Caps are tracked automatically in the RogueMon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).                 |            
 | Caps do not apply until you have locked in your pokemon to run.                                                                            |
 	0 badges = HP = 150 Status = 3
 	1 badge = HP = 200, Status = 5
@@ -128,21 +131,15 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. (Forest Nurse is QOL and not permitted for mid-segment heal) | Huge/Pure Power is banned. | Huge/Pure Power is banned.
+1 random segment will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
 N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together. | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together.
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
-N/A | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
-N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is  banned.
-N/A | *Any* combo of Offensive Setup and any Draining moves together in battle = banned. On their own, they're allowed. | Draining Kiss is banned
-N/A | N/A | All Rival Fights must be completed at end of previous segment, or before next segment (player choice)
+N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is banned.
+N/A | *Any* combo of Passive Offensive Setup moves (+ATK or +SPA), Shell Bell, and Draining moves together in battle = banned. You may have multiple banned elements so long as you do not use them both in the same fight. | Draining Kiss is banned
+N/A | N/A | All Rival Fights must be completed as part of the previous segment or subsequent segment (player choice).
 N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
 
----
-
-# TMs
-| **All TMs have full compatibility, however...** |
-| :--------------------: |
-| Gym TMs can be taught without restriction, but you must decide to teach immediately. |
-| Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
+When you start a new ascension, make sure to adjust your options to the appropriate settings in the tracker (Extensions -> RoguemonTracker -> Options).
 
 ---
 
@@ -152,9 +149,9 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
 | Legal items are limited to visible, hidden, and NPC gift. |
-| ALL step items are banned. |
-| No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS! |
-| No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items. |
+| ALL step items are banned and have been removed from the game. |
+| No buying items in shops unless allowed from a prize. Repels only exception. **NO POKEBALLS!** |
+| No breaking and entering. You are not permitted to enter buildings not required by story / RogueMon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat). |
 | Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
 
 ---
@@ -209,7 +206,11 @@ N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacki
 | **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you get a prize. |
-> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1.
+> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, without restrictions unless it breaks one of the core Ascension Rules. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
+
+---
+
+> Note: The "Found Item" prize can be used to unlock any held item, X item, flute, or TM. If you unlock a held item, it may be equipped and unequipped at will; if you unlock an X item or a flute, it may be used normally; if you unlock a TM, it may not be taught yet, but is permanently safe from being cleansed and may be taught with a "TM in bag" prize later.
 
 ---
 
@@ -233,7 +234,7 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited. |
 | Any picked up item must be followed by an immediate decision if required. |
 | Wild pokemon may not be fought for experience unless allowed by a Prize. |
-| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in Roguemon. |
+| There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in RogueMon. |
 
 ---
 
@@ -242,15 +243,14 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | :--------------------: |
 | The Gym Leader’s ace will always be holding a sensible item. |
 | Gym Leader TM must be decided to teach at time of acquisition. |
-| Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random Prize choice. Afterwards comes *Buy Phase* and *Cleansing phase*. |
+| Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random prize choice. You may look at and decide on the prize and the TM in either order, however you must decide on both before you do anything else. Afterwards comes *Buy Phase* and *Cleansing phase*. |
 
 ---
 
 ## BUY PHASE
 | **You may *exchange* your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag. This is limited to your game progression in terms of what healing is unlocked for purchase.** |
 | :--------------------: |
-| Buy Phase can only make use of items available in PokeMarts (No Vending Machines). You may travel freely to different city PokeMarts to purchase items, once able. |
-| Max Potions and Full Restores cannot be exchanged. |
+| Max Potions and Full Restores cannot be used in Shop Phase. |
 | Current HP total does not apply when exchanging HP heals. i.e. Hyper can always be exchanged for 200. |
 | You may exchange your current status heals. Specific status heals (Antidote, Ice Heal, etc.) may be exchanged 1 for 1; you may also exchange any 3 status heals for a Full Heal or vice versa. |
 
@@ -276,13 +276,13 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 
 | **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
 | :--------------------: |
-| Currently planned curses: |
-Forgetfulness - Must pick up and teach a TM on this route. (You must teach the first TM you pick up.)
+| Current curses: |
+Forgetfulness - After the first fight in this segment, your bottom-most move is changed to a random move. (You may still switch around your move order at any time.)
 Claustrophobia - If this segment is not full cleared, permanently lose 50 HP Cap.
 Downsizing - If this segment is not full cleared, prize spins permanently have 1 fewer option.
-Negative Energy - You have the Torment effect (you cannot use the same move twice in a row).
-Bad Connection - You may not use healing items from your bag in battle.
-Headwind - Start each battle at -1 Speed.
+Tormented Soul - You have the Torment effect (you cannot use the same move twice in a row).
+Kaizo Curse - You may not use healing items from your bag outside of battle.
+Headwind - Start each battle at -2 Speed.
 Sharp Rocks - All enemy pokemon get the Focus Energy effect (+2 critical hit rate).
 High Pressure - Lose 50% PP on all moves at the start of the segment.
 Heavy Fog - All combatants have -1 Accuracy (and it cannot be increased above -1).
@@ -294,14 +294,21 @@ Narcolepsy - Your pokemon has a 30% chance to fall asleep after each fight.
 Clean Air - Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops).
 Clouded Instincts - Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.)
 Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
-Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types). You can see your current typing in the tracker.
-| No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
+Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types, you cannot get a type that gives STAB on any of your moves). You can see your current typing in the tracker.
+No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.)
+Relay Race - When you knock out an enemy pokemon, the next one comes out with the same stat stages. All enemy pokemon also get +1 Speed in addition to that.
+Resourceful - When a move reaches 0 PP, it is randomly changed to a different move.
+Safety Zone - If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag.
+Live Audience - When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns.
+Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat.
+TikTok - Every fight one of your moves becomes Metronome. You don't know which one. 
+| Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.|
 
 ---
 
 <h1 align="center">PRIZE ROLLS</h1>
 
-> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the Roguemon Discord)
+> PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the RogueMon Discord)
 
 ## PRIZE 1
 | **PRIZE 1 (Roll upon exiting the lab): 3 prizes, keep 1** |
@@ -310,12 +317,13 @@ Chameleon - Your typing is changed randomly at the start of each fight (25% for 
 Potion x2 + Antidote
 Parlyz Heal x2 + Antidote
 HP Cap +50
-Status Cap +1 + Potion + Status Choice
-Fight up to 5 random wilds then PC heal  (cannot PC in between)
-Potion + fight 1st wild you see in Routes 1 | 2 | 22 (cannot PC in between)
+Status Cap +1 + Any Status Heal + Potion
+Fight up to 5 wilds in Viridian Forest then PC heal  (cannot PC in between)
+Potion + fight 1st wild you see in Routes 1, 2, and 22 (cannot PC in between)
 Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it
 Potion + Reroll Chip - 1 time use reroll rewards
-| Berry Juice |
+Berry Juice
+| Clairvoyance (A2/A3 only) - learn all future curses |
 
 ---
 
@@ -323,31 +331,39 @@ Potion + Reroll Chip - 1 time use reroll rewards
 | **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
 | :--------------------: | 
 | Potion x2 + Ether |
-Burn Heal + Awakening + Antidote + Parlyz Heal
+Full Heal + Any Status Heal
 Potion + Reroll Chip
 Potion + Ether + Status Choice
 Potionx2 + Any Status Heal
 Potion + Any Status Heal x2
 HP Cap +100
 Status Item Cap +1 + Any Status Heal + Potion
-Duplicator - Purchase duplicate of HP/status item found (immediate choice and must be shop avail.)
+Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
 Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
 Temporary TM Voucher - Teach ground TM found before the next badge (immediate choice)
 Potion x3
-Potion Investment + Potion - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
+Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase
 Nature Mint - Change your pokemon’s nature to one of your choice.
-Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
+PP Up + Potion
+Any Vitamin x2 + Potion
+Any Vitamin + Potion x2
+PP Up + Ether
+Choose 2 - Choose 2 prizes from the Misty prize roll.
+Potion + Clairvoyance (A2/A3 only) - learn all future curses
+| Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
 
 ---
 
 ## MT. MOON PRIZE
 | **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
 | :--------------------: | 
-| Teach one of the fighting bro’s TMs (or neither) |
+| Teach one of the fighting bros' tutor moves (or neither) |
 Super Potion
 Elixir
-| Rare Candy |
+Rare Candy
+| +25 HP Cap|
 
 ---
 
@@ -355,7 +371,7 @@ Elixir
 | **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
 | :--------------------: | 
 | Super Potion x2 |
-Antidote + Parlyz Heal + Awakening + Burn Heal
+Full Heal + Any Status Heal
 Potion x3 + Any Status Heal
 Super Potion + Any Status Heal x2
 Temporary Held Item - Keep and Hold an item from bag for 2 gym badges
@@ -364,12 +380,22 @@ Status Cap +1 + Any Status Heal  + Potion
 Super Potion + Any Status Heal + Ether
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)
-Ground TM 
+1 TM Found OR Given in bag 
 Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
 Nature Mint - Change your pokemon’s nature to one of your choice.
-Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+HP Cap +50 & Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. 
+Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
+Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
+Potion + Reroll Chip - 1 time use reroll rewards
+PP Up + Max Ether
+Any Vitamin x2 + Super Potion
+Any Vitamin x3
+Potion + Clairvoyance (A2/A3 only) - learn all future curses
+Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
+Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type.
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -380,15 +406,24 @@ Ability Capsule - Change your pokemon’s ability to its other slot. You get to 
 Super Potion x3
 Super Potionx2 + Any Status Heal 
 HP Cap +100
-HP Cap + 50 + Status Choice
+HP Cap + 50 + Any Status Heal
 HP Cap + 50 + Super Potion
 Super Potion + Any Status Heal + Ether
 Status Cap +1 + Any Status Heal + Potion
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
 Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
 Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
-Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
-| Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. |
+Candy Jar - You may now save PP Up/PP Max/Rare Candy for anytime use
+Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
+X Speed + Super Potion
+X Defend + Super Potion x2
+Guard Spec. + Dire Hit + Ether
+HP Cap +50 & Rare Candy
+Any Vitamin x3
+Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
+Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
+Regenerator - regain 3% of your max HP after every fight
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -397,19 +432,23 @@ Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
 | :--------------------: | 
 | 1 TM from the Department Store (cannot pre-scout) |
 Hyper Potion + Move Tutor 3F (cannot pre-scout)
-Hyper Potion + 1 Vitamin
+Hyper Potion + Any Vitamin
 Full Heal x2 + Super Potion
 Super Potion x2 + Full Heal
-Any Battle item x2
+Any Battle Item x2
 Move Tutor 3F, then + PP Max (cannot pre-scout)
-Super Potion  + Any Battle item
-Ground Item - Keep/Use any current item in bag before cleanse
+Super Potion + Any Battle item
+Found Item - Keep/Use any current item in bag before cleanse
 HP Cap +100
-HP Cap +50 + XAcc
+HP Cap +50 + X Accuracy
 HP Cap + 50 + Elixir
-Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
-X Factor - You can now keep and use Battle Items Freely
-| Temporary Held Item Voucher: Permanently unlock one non-revive found item before next gym (immediate decision) |
+Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap
+Temporary Held Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision) 
+TM Voucher - Teach 1 Ground in the future (immediate decision)
+Rare Candy x2
+Regenerator - regain 3% of your max HP after every fight
+Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
+| Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
@@ -423,13 +462,17 @@ Hyper Potion + Elixir
 Any Battle Item x2 + Super Potion
 Super Potion x2 + Any Battle Item
 Super Potion + Full Heal + Elixir
-Ground Item + Super Potion - Keep any “non-reviving” item in bag before cleanse
-Ground Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
-Revive (limit one revive item per run)
+Found Item + Super Potion - Keep any “non-reviving” item in bag before cleanse
+Found Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
+Revive (limit one revive item per run) (Silph Co & Giovanni ONLY)
 HP Cap +100 + Status Cap +1
 HP Cap +50 + Super Potion
 Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)
-| Fight one of Route 12/13/14/15 (treat as a segment) |
+Fight Route 12/13 or Route 14/15 (treat as a single segment) 
+HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll)
+HP Cap +150
+Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =)
+| X Factor - You can now keep and use Battle Items freely |
 
 ---
 
@@ -437,12 +480,14 @@ Permanent Held Item Voucher - Permanently unlock one non-revive found item found
 | **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
 | :--------------------: | 
 | Full Restore |
-1 found/given TM OR relearn one move (in Celadon) + Big Mushroom
-HP Cap + 100 + Hyper Potion
-Any Battle items x2
+Max Potion + Full Heal
+Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes)
+HP Cap +100 + Hyper Potion
+Any Battle Item x2
 Revive (limit one revive item per run)
 Full Heal x2 + Elixir x2
-| Fight one of Route 12/13/14/15 (treat as a segment) |
+Fight Route 12/13 or Route 14/15 (treat as a single segment)
+| Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 
 ---
 
